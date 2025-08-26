@@ -1,0 +1,6 @@
+Django==5.2.5
+behave-django==1.7.0
+pydantic==2.11.7
+coverage==7.10.1
+python-dotenv===1.1.1
+openai==1.98.0
