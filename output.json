@@ -1,0 +1,631 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - (\"polylactic acid\" OR polylactide) (biomanufacturing OR bioreactor OR fermentation) (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\" OR \"metric tons\" OR \"metric tonnes\") -simulation",
+        "totalResults": "7460",
+        "searchTerms": "(\"polylactic acid\" OR polylactide) (biomanufacturing OR bioreactor OR fermentation) (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\" OR \"metric tons\" OR \"metric tonnes\") -simulation",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "96a82d1cef0c1426d",
+        "sort": "date:r:20250701:",
+        "exactTerms": "production capacity"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - (\"polylactic acid\" OR polylactide) (biomanufacturing OR bioreactor OR fermentation) (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\" OR \"metric tons\" OR \"metric tonnes\") -simulation",
+        "totalResults": "7460",
+        "searchTerms": "(\"polylactic acid\" OR polylactide) (biomanufacturing OR bioreactor OR fermentation) (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\" OR \"metric tons\" OR \"metric tonnes\") -simulation",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "96a82d1cef0c1426d",
+        "sort": "date:r:20250701:",
+        "exactTerms": "production capacity"
+      }
+    ]
+  },
+  "context": {
+    "title": "NSC Biomanufacturing"
+  },
+  "searchInformation": {
+    "searchTime": 0.515857,
+    "formattedSearchTime": "0.52",
+    "totalResults": "7460",
+    "formattedTotalResults": "7,460"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Innovations in White Biotechnology and Bioplastics | IDTechEx ...",
+      "htmlTitle": "Innovations in White <b>Biotechnology</b> and Bioplastics | IDTechEx ...",
+      "link": "https://www.idtechex.com/en/research-article/innovations-in-white-biotechnology-and-bioplastics/33435",
+      "displayLink": "www.idtechex.com",
+      "snippet": "Jul 1, 2025 ... Polylactic acid and other molecules produced by white biotechnology ... production capacity is expected to reach one million tonnes per year.",
+      "htmlSnippet": "Jul 1, 2025 <b>...</b> <b>Polylactic acid</b> and other molecules produced by white <b>biotechnology</b> ... <b>production capacity</b> is expected to reach one million <b>tonnes</b> per year.",
+      "formattedUrl": "https://www.idtechex.com/en/research-article/innovations-in.../33435",
+      "htmlFormattedUrl": "https://www.idtechex.com/en/research-article/innovations-in.../33435",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3UnU95XbWwXodDpJQrFuHyse_fiW1m-FJjw7kSiLJrdhZPTgxV996dLY8&s",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "organization": [
+          {
+            "name": "IDTechEx Ltd",
+            "logo": "https://cdn.idtechex.com/show/content/images/branding/idtechex-white-logo.jpg",
+            "url": "https://www.idtechex.com/",
+            "email": "research@idtechex.com"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://idtxs3.imgix.net/si/50000/05/63.png?w=1200&h=627&fit=fill&bg=ffffff&border=0",
+            "og:type": "article",
+            "og:image:width": "1200",
+            "article:published_time": "2025-07-01",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Innovations in White Biotechnology and Bioplastics",
+            "og:site_name": "IDTechEx",
+            "msvalidate.01": "571616861122BF8AE888B1CFB984458E",
+            "og:title": "Innovations in White Biotechnology and Bioplastics",
+            "og:image:height": "627",
+            "og:description": "IDTechEx Research Article: White biotechnology refers to the use of biological systems for the industrial production of bio-based products, aiming to reduce reliance on fossil fuels and lower the carbon footprint of materials. This article covers main feedstocks and the molecules made via white biotechnology.",
+            "twitter:creator": "@idtechex",
+            "og:image:secure_url": "https://idtxs3.imgix.net/si/50000/05/63.png?w=1200&h=627&fit=fill&bg=ffffff&border=0",
+            "article:publisher": "https://www.facebook.com/IDTechExResearch/",
+            "twitter:image": "http://idtxs3.imgix.net/si/50000/05/63.png?w=386&h=220&fit=fill&bg=ffffff&border=0",
+            "fb:app_id": "1905389916393394",
+            "twitter:site": "@idtechex",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "White biotechnology refers to the use of biological systems for the industrial production of bio-based products, aiming to reduce reliance on fossil fuels and lower the carbon footprint of materials. This article covers main feedstocks and the molecules made via white biotechnology.",
+            "og:url": "https://www.idtechex.com/en/research-article/innovations-in-white-biotechnology-and-bioplastics/33435"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://idtxs3.imgix.net/si/50000/05/63.png?w=1200&h=627&fit=fill&bg=ffffff&border=0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Environmental footprint of polylactic acid production",
+      "htmlTitle": "Environmental footprint of <b>polylactic acid</b> production",
+      "link": "https://totalenergies-corbion.com/wp-content/uploads/2025/06/2025-LCA-of-Luminy-PLA-from-TotalEnergies-Corbion.pdf",
+      "displayLink": "totalenergies-corbion.com",
+      "snippet": "With a production capacity of 75,000 metric tons annually,. Luminy\u00ae PLA ... or polylactic acid. Resources, Conservation and recycling, vol. 149. https\u00a0...",
+      "htmlSnippet": "With a <b>production capacity</b> of 75,000 <b>metric tons</b> annually,. Luminy\u00ae PLA ... or <b>polylactic acid</b>. Resources, Conservation and recycling, vol. 149. https&nbsp;...",
+      "formattedUrl": "https://totalenergies-corbion.com/.../2025-LCA-of-Luminy-PLA-from-Tota...",
+      "htmlFormattedUrl": "https://totalenergies-corbion.com/.../2025-LCA-of-Luminy-PLA-from-Tota...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwBvK0s90VejzHgTFqDX48LJExOP43BMM28v2fL9BjExYZao82KTge3fk&s",
+            "width": "295",
+            "height": "171"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20250625141503+02'00'",
+            "creationdate": "D:20250616103409Z",
+            "creator": "Adobe InDesign 20.3 (Macintosh)",
+            "producer": "macOS Version 15.2 (Build 24C101) Quartz PDFContext, AppendMode 1.1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///9382a353b3cfe92dcabe1cc896f057d9216a8e000f09cf5b32ee652b70c86f53"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Alpha Hydroxy Acid Market Size, Share, Growth Demand & Trends ...",
+      "htmlTitle": "Alpha Hydroxy Acid Market Size, Share, Growth Demand &amp; Trends ...",
+      "link": "https://www.consegicbusinessintelligence.com/alpha-hydroxy-acid-market",
+      "displayLink": "www.consegicbusinessintelligence.com",
+      "snippet": "Jul 21, 2025 ... ... polylactic acid production which involves fermentation ... tonnes, resulting in a total production capacity of 160,000 tonnes per annum.",
+      "htmlSnippet": "Jul 21, 2025 <b>...</b> ... <b>polylactic acid</b> production which involves <b>fermentation</b> ... <b>tonnes</b>, resulting in a total <b>production capacity</b> of 160,000 <b>tonnes</b> per annum.",
+      "formattedUrl": "https://www.consegicbusinessintelligence.com/alpha-hydroxy-acid-market",
+      "htmlFormattedUrl": "https://www.consegicbusinessintelligence.com/alpha-hydroxy-acid-market",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPjtXzCzi3oXReOFiArzDby3hBJug4TEsxZ-hg6inRSdy48TTBSY1HgEE&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.consegicbusinessintelligence.com/assets/images/cbi-og.webp",
+            "og:type": "Report",
+            "og:site_name": "Consegic Business Intelligence",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "author": "Consegic Business Intelligence",
+            "og:title": "Alpha Hydroxy Acid Market Size, Share, Growth Demand & Trends Forecast Report - 2032",
+            "og:url": "https://www.consegicbusinessintelligence.com/alpha-hydroxy-acid-market",
+            "og:description": "The global alpha hydroxy acid market is forecasted to grow at a CAGR of 3.3% from 2025 to 2032, reaching USD 2,792.17 Million by 2032, up from USD 2,165.88 Million in 2024."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.consegicbusinessintelligence.com/assets/images/cbi-og.webp"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Three-dimensional structure of optical L-lactic acid (A) and D-lactic ...",
+      "htmlTitle": "Three-dimensional structure of optical L-lactic acid (A) and D-lactic ...",
+      "link": "https://www.researchgate.net/figure/Three-dimensional-structure-of-optical-L-lactic-acid-A-and-D-lactic-acid-B-Adapted_fig2_368757750",
+      "displayLink": "www.researchgate.net",
+      "snippet": "Global lactic acid production is estimated at 1.5 million metric tons, with a projected annual growth rate of 8.2% by 2030 (Ojo and de Smidt, 2023) . The\u00a0...",
+      "htmlSnippet": "Global lactic acid production is estimated at 1.5 million <b>metric tons</b>, with a projected annual growth rate of 8.2% by 2030 (Ojo and de Smidt, 2023) . The&nbsp;...",
+      "formattedUrl": "https://www.researchgate.net/.../Three-dimensional-structure-of-optical-L-la...",
+      "htmlFormattedUrl": "https://www.researchgate.net/.../Three-dimensional-structure-of-optical-L-la...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWidHogwrLkTuOLcv1Ck1Cu4NO6v34Nm5siydCTR0Hdv_Jp_nZvHOxoI&s",
+            "width": "369",
+            "height": "137"
+          }
+        ],
+        "imageobject": [
+          {
+            "contenturl": "https://www.researchgate.net/publication/368757750/figure/fig2/AS:11431281388001922@1745146316564/Three-dimensional-structure-of-optical-L-lactic-acid-A-and-D-lactic-acid-B-Adapted.tif",
+            "representativeofpage": "1",
+            "caption": "Three-dimensional structure of optical L-lactic acid (A) and D-lactic acid (B) (Adapted from Pohanka (2020) [17]).",
+            "thumbnailurl": "https://www.researchgate.net/publication/368757750/figure/fig2/AS:11431281388001922@1745146316564/Three-dimensional-structure-of-optical-L-lactic-acid-A-and-D-lactic-acid-B-Adapted_Q320.jpg"
+          }
+        ],
+        "person": [
+          {
+            "name": "Elizabeth Ojo"
+          },
+          {
+            "name": "Olga de Smidt"
+          },
+          {
+            "name": "Sl Mak"
+          },
+          {
+            "name": "M.Y.T. Wu"
+          },
+          {
+            "name": "Wai Ying Chak"
+          },
+          {
+            "name": "Chun Yin Li"
+          },
+          {
+            "name": "Ludovica Varriale"
+          },
+          {
+            "name": "Jan-Niklas Hengsbach"
+          },
+          {
+            "name": "Tianyi Guo"
+          },
+          {
+            "name": "Roland Ulber"
+          },
+          {
+            "name": "Sanjeet Mehariya"
+          },
+          {
+            "name": "Antonella Signorini"
+          },
+          {
+            "name": "Antonella Marone"
+          },
+          {
+            "name": "Rosa Silvia"
+          },
+          {
+            "name": "S. Alijanian"
+          },
+          {
+            "name": "M. J. Zohuriaan-Mehr"
+          },
+          {
+            "name": "M. Esmaeilzadeh"
+          },
+          {
+            "name": "Mohammad Razavi\u2010Nouri"
+          },
+          {
+            "name": "Kevin Tian Xiang Tong"
+          },
+          {
+            "name": "Inn shi Tan"
+          },
+          {
+            "name": "Henry Foo"
+          },
+          {
+            "name": "Mee Kee Wong"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Processes",
+            "url": "journal/Processes-2227-9717"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "ResearchGate",
+            "og:image": "https://www.researchgate.net/publication/368757750/figure/fig2/AS:11431281388001922@1745146316564/Three-dimensional-structure-of-optical-L-lactic-acid-A-and-D-lactic-acid-B-Adapted.tif",
+            "twitter:card": "photo",
+            "twitter:title": "Three-dimensional structure of optical L-lactic acid (A) and D-lactic...",
+            "og:type": "website",
+            "og:site_name": "ResearchGate",
+            "rg-request-token": "aad-QWtkPL51B8a/3XqTmtwCwpob0/AjRMVriZvPsSVIt0EawGWVDXTz9fZSiNr49slRikJyAe/LN1y7Lx0M4MANmtvkFPVef2u+h8qDLi1BIUgCfG7T4xpVO53TobuvTuyFw7b/ZaJEn4WU2JurU/uv6DiHMuOzhUczpCFTtt9+Lc/uYgXyWROC552GLOpmamROuzbN+WML9//3/jpn78hi6PrivTK+OfR7lA3ZNiQFtuikY1qfUOYdtlvatdQfOo2zB9iVChsOlZd1C8Oi7VtiCD5nyTgpi2YjQ7Q=",
+            "twitter:url": "https://www.researchgate.net/figure/Three-dimensional-structure-of-optical-L-lactic-acid-A-and-D-lactic-acid-B-Adapted_fig2_368757750",
+            "og:title": "Three-dimensional structure of optical L-lactic acid (A) and D-lactic...",
+            "twitter:creator": "@ResearchGate",
+            "og:description": "Download scientific diagram | Three-dimensional structure of optical L-lactic acid (A) and D-lactic acid (B) (Adapted from Pohanka (2020) [17]). from publication: Lactic Acid: A Comprehensive Review of Production to Purification | Lactic acid (LA) has broad applications in the food, chemical, pharmaceutical, and cosmetics industries. LA production demand rises due to the increasing demand for polylactic acid since LA is a precursor for polylactic acid production. Fermentative LA production using... | Lactic Acid, Fermentation and Microorganisms | ResearchGate, the professional network for scientists.",
+            "twitter:image": "https://www.researchgate.net/publication/368757750/figure/fig2/AS:11431281388001922@1745146316564/Three-dimensional-structure-of-optical-L-lactic-acid-A-and-D-lactic-acid-B-Adapted.tif",
+            "referrer": "origin",
+            "twitter:site": "@ResearchGate",
+            "viewport": "width=device-width,initial-scale=1",
+            "og:site": "ResearchGate",
+            "og:url": "https://www.researchgate.net/figure/Three-dimensional-structure-of-optical-L-lactic-acid-A-and-D-lactic-acid-B-Adapted_fig2_368757750"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.researchgate.net/publication/368757750/figure/fig2/AS:11431281388001922@1745146316564/Three-dimensional-structure-of-optical-L-lactic-acid-A-and-D-lactic-acid-B-Adapted.tif"
+          }
+        ],
+        "scholarlyarticle": [
+          {
+            "headline": "Lactic Acid: A Comprehensive Review of Production to Purification"
+          },
+          {
+            "headline": "A Review of the Feasibility of Producing Polylactic Acid (PLA) Polymers Using Spent Coffee Ground"
+          },
+          {
+            "headline": "Sustainable Production of Lactic Acid Using a Perennial Ryegrass as Feedstock\u2014A Comparative Study of Fermentation at the Bench- and Reactor-Scale, and Ensiling"
+          },
+          {
+            "headline": "Simultaneous Hydrogen and Ethanol Production from Crude Glycerol by a Microbial Consortium Using Fed-Batch Fermentation"
+          },
+          {
+            "headline": "Glycerol-oligo(lactic acid) bioresins as fully biobased modifiers for poly(Lactic acid): synthesis, green chemistry metrics, and the modified PLA film Properties"
+          },
+          {
+            "headline": "Sustainable circular biorefinery approach for novel building blocks and bioenergy production from algae using microbial fuel cell"
+          },
+          {
+            "headline": "Facil and one-pot synthesis of novel N-alkylated derivatives of S-lactic hydrazones under green conditions and study of their antibacterial properties"
+          },
+          {
+            "headline": "Effects of Natural Fermentation Time on Chemical Composition, Antioxidant Activities, and Phenolic Profile of Cassava Root Flour"
+          },
+          {
+            "headline": "Sustainable lactic acid production from agricultural waste: a review of current techniques, challenges and future directions"
+          },
+          {
+            "headline": "Exploring the Synthesis of Lactic Acid from Sugarcane Molasses Collected in C\u00f4te d\u2019Ivoire Using Limosilactobacillus fermentum ATCC 9338 in a Batch Fermentation Process"
+          },
+          {
+            "headline": "Key findings from 15 years of Mangrovibacter research: a generalist bacterium beyond endophytes"
+          },
+          {
+            "headline": "The Development of Green Polylactic Acid (PLA) Composites for Wastewater Treatment -A Review"
+          },
+          {
+            "headline": "Sustainable production of lactic acid from cheese whey using Co\u2010cultures and enzymatic hydrolysis"
+          },
+          {
+            "headline": "Biocontrol Ability Against Harmful Microbial Contamination of Vegan Mortadella with an Ingredient of Oat Fermented by Lactiplantibacillus plantarum"
+          },
+          {
+            "headline": "A review on gluten-free and low-glycemic index bakery products, especially corn based breads, noodles, and multigrain flours"
+          },
+          {
+            "headline": "Effect of nutrient supplementation on lactic acid production by lactic acid bacteria"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Conversion of Polylactic Acid in Subcritical Water: Prospects for ...",
+      "htmlTitle": "Conversion of <b>Polylactic Acid</b> in Subcritical Water: Prospects for ...",
+      "link": "https://repository.dl.itc.u-tokyo.ac.jp/record/2013796/files/K-09378.pdf",
+      "displayLink": "repository.dl.itc.u-tokyo.ac.jp",
+      "snippet": "Jul 22, 2025 ... 8.48 tons of LA, translating to an annual production capacity of 2544 tons. Usually, the levelized cost of energy (LCOE) analysis will be\u00a0...",
+      "htmlSnippet": "Jul 22, 2025 <b>...</b> 8.48 <b>tons</b> of LA, translating to an annual <b>production capacity</b> of 2544 <b>tons</b>. Usually, the levelized cost of energy (LCOE) analysis will be&nbsp;...",
+      "formattedUrl": "https://repository.dl.itc.u-tokyo.ac.jp/record/2013796/files/K-09378.pdf",
+      "htmlFormattedUrl": "https://repository.dl.itc.u-tokyo.ac.jp/record/2013796/files/K-09378.pdf",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjuTpdSiicCyXuo8oc3a9kOYkapXlFj3k3BTI2UDPFMtzVmHQFSPRSWLg&s",
+            "width": "227",
+            "height": "222"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20240606105045+09'00'",
+            "creationdate": "D:20240312142435+09'00'",
+            "creator": "Microsoft\u00ae Word for Microsoft 365",
+            "author": "\u5449\u3000\u51e1",
+            "producer": "Microsoft\u00ae Word for Microsoft 365"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///77c713d4b091b2c7cb3a14eda9092efc823be434ae4c9637a48c9a38d418c91b"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "(PDF) An overview of the recent developments in polylactide (PLA ...",
+      "htmlTitle": "(PDF) An overview of the recent developments in <b>polylactide</b> (PLA ...",
+      "link": "https://www.researchgate.net/publication/45187976_An_overview_of_the_recent_developments_in_polylactide_PLA_research",
+      "displayLink": "www.researchgate.net",
+      "snippet": "Aug 9, 2025 ... ments and challenges in PLA research. 2. PLA market. Globally, bioplastics make up nearly 300,000 metric tons of the. plastics market. Even\u00a0...",
+      "htmlSnippet": "Aug 9, 2025 <b>...</b> ments and challenges in PLA research. 2. PLA market. Globally, bioplastics make up nearly 300,000 <b>metric tons</b> of the. plastics market. Even&nbsp;...",
+      "formattedUrl": "https://www.researchgate.net/.../45187976_An_overview_of_the_recent_de...",
+      "htmlFormattedUrl": "https://www.researchgate.net/.../45187976_An_overview_of_the_recent_de...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJUs0XYA1betWTwneoDD-tHAcvxebdrkznJaQCgRqploXNPUbsSawoxYdC&s",
+            "width": "194",
+            "height": "259"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://i1.rgstatic.net/publication/45187976_An_overview_of_the_recent_developments_in_polylactide_PLA_research/links/5eb12d6892851cb2677423de/largepreview.png",
+            "citation_publication_date": "2010/11/01",
+            "twitter:card": "summary",
+            "citation_title": "An overview of the recent developments in polylactide (PLA) research",
+            "og:site_name": "ResearchGate",
+            "twitter:url": "https://www.researchgate.net/publication/45187976_An_overview_of_the_recent_developments_in_polylactide_PLA_research",
+            "citation_publisher": "Elsevier BV",
+            "citation_journal_title": "Bioresource Technology",
+            "twitter:creator": "@ResearchGate",
+            "og:description": "PDF | The concept of biodegradable plastics is of considerable interest with respect to solid waste accumulation. Greater efforts have been made in... | Find, read and cite all the research you need on ResearchGate",
+            "citation_issn": "1873-2976",
+            "twitter:site": "@ResearchGate",
+            "og:site": "ResearchGate",
+            "citation_fulltext_html_url": "https://www.researchgate.net/publication/45187976_An_overview_of_the_recent_developments_in_polylactide_PLA_research",
+            "citation_pdf_url": "https://www.researchgate.net/profile/K-Madhavan-Nampoothiri/publication/45187976_An_overview_of_the_recent_developments_in_polylactide_PLA_research/links/5eb12d6892851cb2677423de/An-overview-of-the-recent-developments-in-polylactide-PLA-research.pdf",
+            "citation_lastpage": "501",
+            "application-name": "ResearchGate",
+            "og:type": "website",
+            "citation_pmid": "20630747",
+            "rg-request-token": "aad-CsOzf1f2mCxXHpTOsefXW9AyAAI8aIkWJ/XH99nGIkKLPurg8WWHV5W7njUpX04GBfzALZqBbondcN7HF6P0qTAFDpP7UpLFLXNMIlzMYOFYlxJAgrmIcepNaSGyazd84N33QdodcBtFsi8yF41yOzOFpqnE9QpBN9TAW7ikOTYzzRKEFXhCJIgeNiRUNaVmU/JcNseNq+FWgQC4Vyf0Ov+m79kGwLckSPF8ST7Yg2XvOqfzQbOtI55qPc27ihJD+F72UPEyipqAQIwqUzvScl14qT0h6WcapJw=",
+            "og:title": "(PDF) An overview of the recent developments in polylactide (PLA) research",
+            "citation_author": "K. Madhavan Nampoothiri",
+            "citation_abstract_html_url": "https://www.researchgate.net/publication/45187976_An_overview_of_the_recent_developments_in_polylactide_PLA_research",
+            "citation_issue": "22",
+            "referrer": "origin",
+            "citation_firstpage": "8493",
+            "viewport": "width=device-width,initial-scale=1",
+            "citation_doi": "10.1016/j.biortech.2010.05.092",
+            "rg:id": "PB:45187976",
+            "dc.identifier": "http://dx.doi.org/10.1016/j.biortech.2010.05.092",
+            "citation_volume": "101",
+            "og:url": "https://www.researchgate.net/publication/45187976_An_overview_of_the_recent_developments_in_polylactide_PLA_research",
+            "gs_meta_revision": "1.1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i1.rgstatic.net/publication/45187976_An_overview_of_the_recent_developments_in_polylactide_PLA_research/links/5eb12d6892851cb2677423de/largepreview.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Complete Guide to PLA Plastic",
+      "htmlTitle": "Complete Guide to PLA Plastic",
+      "link": "https://firstmold.com/guides/pla-plastic/",
+      "displayLink": "firstmold.com",
+      "snippet": "Aug 4, 2025 ... Polylactic Acid (PLA) plastics created from renewable sources ... metric tons. The company doubled its production capacity in 2015. In\u00a0...",
+      "htmlSnippet": "Aug 4, 2025 <b>...</b> <b>Polylactic Acid</b> (PLA) plastics created from renewable sources ... <b>metric tons</b>. The company doubled its <b>production capacity</b> in 2015. In&nbsp;...",
+      "formattedUrl": "https://firstmold.com/guides/pla-plastic/",
+      "htmlFormattedUrl": "https://firstmold.com/guides/pla-plastic/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPoxOy6JCml6gaSjOLoWxKglrRXKROXagfl5RF6BJgLw70jhREupZ8Me4&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://firstmold.com/wp-content/uploads/2025/08/PLA-PLASTIC-FEATURED-IMAGE.webp",
+            "og:type": "article",
+            "article:published_time": "2025-08-04T07:00:47+00:00",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "First Mold",
+            "author": "chenhe",
+            "og:title": "PLA Plastic | Material Series for Product Design",
+            "og:image:height": "675",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Est. reading time",
+            "og:image:type": "image/webp",
+            "msapplication-tileimage": "https://firstmold.com/wp-content/uploads/2024/04/FM-SVG.svg",
+            "og:description": "What is PLA plastic? Discover how it revolutionizes packaging, 3D printing & medical fields. Compare costs, biodegradability & market growth.",
+            "twitter:creator": "@firstmold2011",
+            "article:publisher": "https://www.youtube.com/@firstmold",
+            "twitter:data1": "chenhe",
+            "twitter:data2": "16 minutes",
+            "twitter:site": "@firstmold2011",
+            "article:modified_time": "2025-08-11T09:16:20+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://firstmold.com/guides/pla-plastic/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://firstmold.com/wp-content/uploads/2025/08/PLA-PLASTIC-FEATURED-IMAGE.webp"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Plastic - Wikipedia",
+      "htmlTitle": "Plastic - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Plastic",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Between 1950 and 2017, 9.2 billion metric tons of plastic are estimated to ... metric tonnes in 2015 (excluding additives). From the 1950s\u00a0...",
+      "htmlSnippet": "Between 1950 and 2017, 9.2 billion <b>metric tons</b> of plastic are estimated to ... <b>metric tonnes</b> in 2015 (excluding additives). From the 1950s&nbsp;...",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Plastic",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/Plastic",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Plastic_household_items.jpg",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Plastic - Wikipedia",
+            "og:image:height": "799",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "More Investments in Brazil \u2013 Part IX",
+      "htmlTitle": "More Investments in Brazil \u2013 Part IX",
+      "link": "https://www.linkedin.com/pulse/more-investments-brazil-part-ix-roberto-gregori-jr-dipl-ing--k6ozf",
+      "displayLink": "www.linkedin.com",
+      "snippet": "Jul 29, 2025 ... ... production capacity of 15,000 tons/year of compostable bioplastics ... The new plant uses PLA (polylactic acid), a biopolymer derived\u00a0...",
+      "htmlSnippet": "Jul 29, 2025 <b>...</b> ... <b>production capacity</b> of 15,000 <b>tons</b>/year of compostable bioplastics ... The new plant uses PLA (<b>polylactic acid</b>), a biopolymer derived&nbsp;...",
+      "formattedUrl": "https://www.linkedin.com/.../more-investments-brazil-part-ix-roberto-grego...",
+      "htmlFormattedUrl": "https://www.linkedin.com/.../more-investments-brazil-part-ix-roberto-grego...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWpRwV7u59b_nARJTSR_q7ck-eVzZwdXgiPlVr2nc2x1forTivQemIcVU&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://media.licdn.com/dms/image/v2/D4D12AQECHcVJbKiXVA/article-cover_image-shrink_600_2000/B4DZhX76fIGQAY-/0/1753821981466?e=2147483647&v=beta&t=ADH6xiqYVesCNVFSE6kocx_3dbTTCzRV1k9vNXdEAes",
+            "twitter:card": "summary_large_image",
+            "clientsideingraphs": "1",
+            "al:android:package": "com.linkedin.android",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Reading time",
+            "bingbot": "nocache",
+            "locale": "en_US",
+            "al:ios:url": "https://www.linkedin.com/pulse/more-investments-brazil-part-ix-roberto-gregori-jr-dipl-ing--k6ozf",
+            "og:description": "\u2022 Construction is progressing on the new R$150 million factory project for Drylock Technologies Brasil, a personal care company, in Capivari, near Piracicaba, in the interior of S\u00e3o Paulo state. \u2022 A new factory was installed in the Paran\u00e1 municipality of Camb\u00e9 (PR), a city in the metropolitan area o",
+            "al:ios:app_store_id": "288429040",
+            "twitter:image": "https://media.licdn.com/dms/image/v2/D4D12AQECHcVJbKiXVA/article-cover_image-shrink_600_2000/B4DZhX76fIGQAY-/0/1753821981466?e=2147483647&v=beta&t=ADH6xiqYVesCNVFSE6kocx_3dbTTCzRV1k9vNXdEAes",
+            "twitter:data1": "Roberto Gregori Jr, Dipl-Ing.",
+            "twitter:data2": "4 min read",
+            "twitter:site": "@LinkedInEditors",
+            "og:type": "article",
+            "twitter:title": "More Investments in Brazil \u2013 Part IX",
+            "al:ios:app_name": "LinkedIn",
+            "og:title": "More Investments in Brazil \u2013 Part IX",
+            "pagekey": "p_flagship2_pulse_read",
+            "al:android:url": "https://www.linkedin.com/pulse/more-investments-brazil-part-ix-roberto-gregori-jr-dipl-ing--k6ozf",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "\u2022 Construction is progressing on the new R$150 million factory project for Drylock Technologies Brasil, a personal care company, in Capivari, near Piracicaba, in the interior of S\u00e3o Paulo state. \u2022 A new factory was installed in the Paran\u00e1 municipality of Camb\u00e9 (PR), a city in the metropolitan area o",
+            "og:url": "https://www.linkedin.com/pulse/more-investments-brazil-part-ix-roberto-gregori-jr-dipl-ing--k6ozf",
+            "al:android:app_name": "LinkedIn"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.licdn.com/dms/image/v2/D4D12AQECHcVJbKiXVA/article-cover_image-shrink_600_2000/B4DZhX76fIGQAY-/0/1753821981466?e=2147483647&v=beta&t=ADH6xiqYVesCNVFSE6kocx_3dbTTCzRV1k9vNXdEAes"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sustainable Polymers: Smart Materials for a Cleaner Future ...",
+      "htmlTitle": "Sustainable Polymers: Smart Materials for a Cleaner Future ...",
+      "link": "https://www.elementar.com/en-gb/blog/sustainable-polymers",
+      "displayLink": "www.elementar.com",
+      "snippet": "8 hours ago ... Millions of tonnes of plastic waste pollute our environment every ... Examples include PLA (polylactic acid), PHA\u00a0...",
+      "htmlSnippet": "8 hours ago <b>...</b> Millions of <b>tonnes</b> of plastic waste pollute our environment every ... Examples include PLA (<b>polylactic acid</b>), PHA&nbsp;...",
+      "formattedUrl": "https://www.elementar.com/en-gb/blog/sustainable-polymers",
+      "htmlFormattedUrl": "https://www.elementar.com/en-gb/blog/sustainable-polymers",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWGiugFvEjWAfKgHtW-7emSBP0t0LmvTMgqO-PXBVB-oeWsGk1U7DIUxw&s",
+            "width": "150",
+            "height": "150"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#121212",
+            "og:image": "https://www.elementar.com/fileadmin/_processed_/c/f/csm_iStock-1774038508_845cec5d02.jpg",
+            "msapplication-config": "/images/favicon/browserconfig.xml",
+            "og:image:width": "2000",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Sustainable Polymers: Smart Materials for a Cleaner Future",
+            "theme-color": "#121212",
+            "og:image:url": "https://www.elementar.com/fileadmin/_processed_/c/f/csm_iStock-1774038508_845cec5d02.jpg",
+            "og:title": "Sustainable Polymers: Smart Materials for a Cleaner Future",
+            "og:image:height": "1050",
+            "og:description": "Discover how elemental analysis supports the global trend toward sustainable polymers \u2013 and why it is essential for building a circular, low-carbon future.",
+            "twitter:image": "https://www.elementar.com/fileadmin/_processed_/c/f/csm_iStock-1774038508_845cec5d02.jpg",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no",
+            "twitter:description": "Discover how elemental analysis supports the global trend toward sustainable polymers \u2013 and why it is essential for building a circular, low-carbon future.",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.elementar.com/fileadmin/_processed_/5/7/csm_Benedikt-Klebing_8468cc3e49.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
