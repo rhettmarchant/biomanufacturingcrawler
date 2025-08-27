@@ -17,5 +17,9 @@
   "mounts": [
     "source=/home/rhett/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached"
   ],
-  "postCreateCommand": "pip install -r requirements.txt"
+  "containerEnv": {
+    "PYTHONPATH": "/workspaces/biomanufacturing-crawler:$PYTHONPATH"
+  },
+  "postCreateCommand": "pip install -r requirements.txt",
+
 }
