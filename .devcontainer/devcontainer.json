@@ -20,6 +20,6 @@
   "containerEnv": {
     "PYTHONPATH": "/workspaces/biomanufacturing-crawler:$PYTHONPATH"
   },
-  "postCreateCommand": "pip install -r requirements.txt",
+  "postCreateCommand": "pip install -r requirements.txt"
 
 }
