@@ -10,12 +10,16 @@
         "alexkrechik.cucumberautocomplete",
         "mechatroner.rainbow-csv",
         "grapecity.gc-excelviewer",
-        "jimasp.behave-vsc"
+        "jimasp.behave-vsc",
+        "yzhang.markdown-all-in-one"
       ]
     }
   },
   "mounts": [
     "source=/home/rhett/.ssh,target=/home/vscode/.ssh,type=bind,consistency=cached"
   ],
-  "postCreateCommand": "pip install -r requirements.txt; bash auth_github.sh"
+  "containerEnv": {
+    "PYTHONPATH": "/workspaces/biomanufacturing-crawler:$PYTHONPATH"
+  },
+  "postCreateCommand": "pip install -r requirements.txt"
 }
