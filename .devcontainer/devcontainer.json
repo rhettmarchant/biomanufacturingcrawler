@@ -10,7 +10,8 @@
         "alexkrechik.cucumberautocomplete",
         "mechatroner.rainbow-csv",
         "grapecity.gc-excelviewer",
-        "jimasp.behave-vsc"
+        "jimasp.behave-vsc",
+        "yzhang.markdown-all-in-one"
       ]
     }
   },
@@ -21,5 +22,4 @@
     "PYTHONPATH": "/workspaces/biomanufacturing-crawler:$PYTHONPATH"
   },
   "postCreateCommand": "pip install -r requirements.txt"
-
 }
