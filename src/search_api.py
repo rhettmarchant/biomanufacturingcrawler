@@ -4,20 +4,6 @@ import json
 import os
 from biomanufacturingtracker.src.extractors.sourceExtract import extract_source
 
-# 26 August 2025 - 2:30pm
-# For next time:
-# Extract URLs and pass into OPENAI
-# Create a list of searches to perform
-# Establish new test database for BCMV
-# Handle batch input for URL to OPENAI
-# Bulk import data to test database
-# Sort out pagination problem
-# Repeat with full dataset.
-
-# Cheap win
-# 1. Create a spreadsheet with all of the chemicals of interest
-# 2. Work out how much relevant data is out there and create a table
-
 load_dotenv()
 
 API_KEY = os.getenv("GOOGLE_CUSTOM_SEARCH_API_KEY")
@@ -30,13 +16,12 @@ print("API_KEY: ", API_KEY)
 print("CX: ", CX)
 
 
-def google_search(query, exact, sort):
+def google_search(query, sort):
     url = "https://www.googleapis.com/customsearch/v1"
     params = {
         "key": API_KEY,
         "cx": CX,
         "q": query,
-        "exactTerms": exact,
         "sort": sort,
         # Note, the API will never return more than 10 pages of results (i.e. 101)
         "start": 91
@@ -54,7 +39,6 @@ def extract_results(json_data):
     search = {
         "totalResults": json_data['queries']['request'][0]['totalResults'],
         "searchTerms": json_data['queries']['request'][0]['searchTerms'],
-        "exactTerms": json_data['queries']['request'][0]['exactTerms'],
         "count": json_data['queries']['request'][0]['count'],
         "startIndex": json_data['queries']['request'][0]['startIndex']
     }
@@ -87,15 +71,13 @@ def bulk_ai_search(links):
 
 if __name__ == "__main__":
     query = '("polylactic acid" OR polylactide) (biomanufacturing OR bioreactor OR fermentation) ("ton" OR "tons" OR "tonnes" OR "metric ton" OR "metric tons" OR "metric tonnes") -simulation'
-    exact = "production capacity"
     sort = "date:r"
     print("QUERY: ", query)
-    print("EXACT TERMS: ", exact)
     print("SORT: ", sort)
-    results = google_search(query, exact, sort)
+    results = google_search(query, sort)
     product = extract_results(results)
     links = extract_links(product)
     results = bulk_ai_search(links)
-    print(json.dumps(product, indent=2))
-    print(json.dumps(links, indent=2))
+    print(json.dumps(product['search'], indent=2))
+    #print(json.dumps(links, indent=2))
     print(json.dumps(results, indent=2))
