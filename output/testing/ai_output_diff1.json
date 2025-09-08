@@ -1,0 +1,389 @@
+[
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9455666/",
+      "language": "english",
+      "date_published": "2022-09-01"
+    },
+    "company_1": {
+      "company_name": "Corbion NV",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 140000,
+        "location": {
+          "country": "Thailand",
+          "state": "NA",
+          "city": "Rayong"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Corbion NV operates the world's largest lactic acid production facility in Rayong Thailand with a capacity of 140000 metric tons per year using sugarcane as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "TotalEnergies Corbion BV",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 75000,
+        "location": {
+          "country": "Thailand",
+          "state": "NA",
+          "city": "Rayong"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "TotalEnergies Corbion BV produces 75000 metric tons per year of polylactic acid at its Rayong Thailand facility using sugarcane as feedstock."
+      }
+    },
+    "company_3": {
+      "company_name": "NatureWorks LLC",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 150000,
+        "location": {
+          "country": "United States",
+          "state": "Nebraska",
+          "city": "Blair"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "NatureWorks LLC operates a polylactic acid plant in Blair Nebraska United States with a capacity of 150000 metric tons per year using corn as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Cell Press",
+      "url": "https://www.cell.com/cms/10.1016/j.chempr.2025.102665/attachment/92080a10-3faf-4ef2-9c48-28dd20b083a9/mmc2.pdf",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "YSMeter",
+      "url": "https://www.ysmeter.com/biochemical?lang=en",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "YSMeter",
+      "chemical_1": {
+        "chemical_name": "acetic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Acetic acid is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_2": {
+        "chemical_name": "acetone",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Acetone is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_3": {
+        "chemical_name": "citric acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Citric acid is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_4": {
+        "chemical_name": "ethanol",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Ethanol is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_5": {
+        "chemical_name": "glucose",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Glucose is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_6": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Lactic acid is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_7": {
+        "chemical_name": "lysine",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Lysine is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_8": {
+        "chemical_name": "monosodium glutamate",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Monosodium glutamate is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_9": {
+        "chemical_name": "sodium gluconate",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Sodium gluconate is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_10": {
+        "chemical_name": "sorbitol",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Sorbitol is listed as a product but no production volume or facility information is provided."
+      },
+      "chemical_11": {
+        "chemical_name": "xylitol",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Xylitol is listed as a product but no production volume or facility information is provided."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2405805X2100048X",
+      "language": "english",
+      "date_published": "2021-06-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ResearchGate",
+      "url": "https://www.researchgate.net/figure/Structural-formula-of-g-aminobutyric-acid-GABA_fig1_366501393",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0168165620303035",
+      "language": "english",
+      "date_published": "2020-09-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ResearchGate",
+      "url": "https://www.researchgate.net/figure/Thin-layer-chromatography-to-evaluate-the-production-of-GABA-in-MRS-broth-a-pressure_fig1_357832386",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9806916/",
+      "language": "english",
+      "date_published": "2022-12-22"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 1300000,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; glucose; sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global lactic acid production is estimated at 1.3 million metric tons per year, primarily via fermentation using corn, sugarcane, and glucose as feedstocks."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1359511323003732",
+      "language": "english",
+      "date_published": "2023-06-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "MDPI",
+      "url": "https://www.mdpi.com/2304-8158/14/13/2158",
+      "language": "english",
+      "date_published": "2023-06-29"
+    },
+    "company_1": {}
+  }
+]

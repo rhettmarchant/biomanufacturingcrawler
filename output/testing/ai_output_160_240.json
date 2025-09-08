@@ -1,0 +1,2259 @@
+[
+  {
+    "source_info": {
+      "source_name": "Nature",
+      "url": "https://www.nature.com/articles/s41578-021-00407-8",
+      "language": "english",
+      "date_published": "2021-10-13"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Jiangyin Scents International Co Ltd",
+      "url": "http://scents-jy.com/zoujinjianyuan/",
+      "language": "chinese",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Jiangyin Scents International Co Ltd",
+      "chemical_1": {
+        "chemical_name": "vanillin",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Jiangsu",
+          "city": "Jiangyin"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "Jiangyin Scents International Co Ltd produces vanillin using fermentation at its facility in Jiangyin Jiangsu China."
+      },
+      "chemical_2": {
+        "chemical_name": "ethyl vanillin",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Jiangsu",
+          "city": "Jiangyin"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "Jiangyin Scents International Co Ltd produces ethyl vanillin using fermentation at its facility in Jiangyin Jiangsu China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/biot.201600646",
+      "language": "english",
+      "date_published": "2017-03-01"
+    },
+    "company_1": {
+      "company_name": "BASF SE",
+      "chemical_1": {
+        "chemical_name": "1 4-butanediol",
+        "volume": 50000,
+        "location": {
+          "country": "United States",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugar"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE produces 50,000 metric tons per year of 1 4-butanediol via fermentation from sugar in the United States."
+      }
+    },
+    "company_2": {
+      "company_name": "DuPont Tate & Lyle Bio Products Company LLC",
+      "chemical_1": {
+        "chemical_name": "1 3-propanediol",
+        "volume": 65000,
+        "location": {
+          "country": "United States",
+          "state": "Tennessee",
+          "city": "Loudon"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "DuPont Tate & Lyle Bio Products Company LLC produces 65,000 metric tons per year of 1 3-propanediol via fermentation from corn in Loudon Tennessee United States."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "HAL Th\u00e8ses",
+      "url": "https://theses.hal.science/tel-01561750/file/JIMENEZ-QUERO_Amparo_2016_ED182.pdf",
+      "language": "french",
+      "date_published": "2016-01-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Sciendo",
+      "url": "https://sciendo.com/2/v2/download/article/10.2478/ebtj-2021-0012.pdf",
+      "language": "english",
+      "date_published": "2021-01-01"
+    },
+    "company_1": {
+      "company_name": "Corbion NV",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 75000,
+        "location": {
+          "country": "Netherlands;Spain;Brazil;Thailand",
+          "state": "NA",
+          "city": "Gorinchem;Montmel\u00f3;Campos dos Goytacazes;Rayong"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane;corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Corbion NV produces approximately 75,000 metric tons of lactic acid per year using fermentation of sugarcane and corn at facilities in the Netherlands, Spain, Brazil, and Thailand."
+      }
+    },
+    "company_2": {
+      "company_name": "Cargill Incorporated",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 140000,
+        "location": {
+          "country": "United States",
+          "state": "Iowa",
+          "city": "Blair"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cargill Incorporated produces approximately 140,000 metric tons of lactic acid per year by fermenting corn at its Blair, Iowa facility."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0959652623009733",
+      "language": "english",
+      "date_published": "2023-03-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2842027/",
+      "language": "english",
+      "date_published": "2010-03-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Journal of Analytical Science and Technology",
+      "url": "https://jast-journal.springeropen.com/articles/10.1186/s40543-018-0154-0",
+      "language": "english",
+      "date_published": "2018-10-19"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Thermo Fisher Scientific",
+      "url": "https://assets.thermofisher.com/TFS-Assets/MSD/Application-Notes/AN51449-monitoring-multiple-components-mammalian-cell-culture-nir.pdf",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "National Science Foundation Public Access Repository",
+      "url": "https://par.nsf.gov/servlets/purl/10017421",
+      "language": "english",
+      "date_published": "2015-09-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "SciePublish",
+      "url": "https://www.sciepublish.com/article/pii/528",
+      "language": "english",
+      "date_published": "2023-12-19"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 1000000,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global lactic acid production exceeds 1 million metric tons per year, mainly via fermentation using corn and sugarcane as feedstocks."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Microbial Cell Factories",
+      "url": "https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-021-01567-6",
+      "language": "english",
+      "date_published": "2021-12-20"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "itaconic acid",
+        "volume": 50000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose; molasses; starch"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The global annual production of itaconic acid is estimated to be about 50,000 metric tons, mainly produced by fermentation using glucose, molasses, or starch as feedstocks."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "T Derflinger",
+      "url": "https://tderflinger.com/companies-producing-biopolymers-for-packaging",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "NatureWorks LLC",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 150000,
+        "location": {
+          "country": "United States",
+          "state": "Nebraska",
+          "city": "Blair"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "NatureWorks LLC produces 150000 metric tons of polylactic acid per year in Blair Nebraska using corn as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "TotalEnergies Corbion",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 75000,
+        "location": {
+          "country": "Thailand",
+          "state": "Rayong",
+          "city": "Rayong"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "TotalEnergies Corbion produces 75000 metric tons of polylactic acid per year in Rayong Thailand using sugarcane as feedstock."
+      }
+    },
+    "company_3": {
+      "company_name": "Novamont SpA",
+      "chemical_1": {
+        "chemical_name": "polybutylene adipate terephthalate",
+        "volume": 120000,
+        "location": {
+          "country": "Italy",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn;vegetable-oil"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Novamont SpA produces 120000 metric tons of polybutylene adipate terephthalate per year in Italy using corn and vegetable oil as feedstocks."
+      }
+    },
+    "company_4": {
+      "company_name": "BASF SE",
+      "chemical_1": {
+        "chemical_name": "polybutylene adipate terephthalate",
+        "volume": 70000,
+        "location": {
+          "country": "Germany",
+          "state": "NA",
+          "city": "Ludwigshafen"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE produces 70000 metric tons of polybutylene adipate terephthalate per year in Ludwigshafen Germany using corn as feedstock."
+      }
+    },
+    "company_5": {
+      "company_name": "FKuR Kunststoff GmbH",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 0,
+        "location": {
+          "country": "Germany",
+          "state": "North Rhine-Westphalia",
+          "city": "Willich"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "FKuR Kunststoff GmbH produces polylactic acid-based biopolymers for packaging in Willich Germany but no production volume is specified."
+      }
+    },
+    "company_6": {
+      "company_name": "Biome Bioplastics Limited",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 0,
+        "location": {
+          "country": "United Kingdom",
+          "state": "Hampshire",
+          "city": "Southampton"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "Biome Bioplastics Limited produces polylactic acid-based biopolymers for packaging in Southampton United Kingdom but no production volume is specified."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Persistence Market Research",
+      "url": "https://www.persistencemarketresearch.com/market-research/bio-succinic-acid-market.asp",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "bio-based succinic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "2023-2033"
+        },
+        "notes": "The global market for bio-based succinic acid is projected to grow significantly between 2023 and 2033, with production primarily using fermentation of glucose feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0263876224006208",
+      "language": "english",
+      "date_published": "2024-06-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11365079/",
+      "language": "english",
+      "date_published": "2024-05-24"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0961953425000765",
+      "language": "english",
+      "date_published": "2024-05-23"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8020936/",
+      "language": "english",
+      "date_published": "2021-03-26"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Scientific Research Publishing",
+      "url": "https://www.scirp.org/journal/paperinformation?paperid=64718",
+      "language": "english",
+      "date_published": "2016-03-29"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0048969723079998",
+      "language": "english",
+      "date_published": "2023-08-15"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/PressReleases/pha.asp",
+      "language": "english",
+      "date_published": "2022-11-29"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "polyhydroxyalkanoate",
+        "volume": 100000,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "2027"
+        },
+        "notes": "The global polyhydroxyalkanoate (PHA) market is projected to reach 100000 metric tons by 2027 according to the source."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S001393512500146X",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0960148117303968",
+      "language": "english",
+      "date_published": "2017-07-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "De Gruyter",
+      "url": "https://www.eng.uc.edu/~beaucag/Classes/PlasticsInACircularEconomy/Books/(De%20Gruyter%20Textbook)%20Vincent%20Voet,%20Jan%20Jager,%20Rudy%20Folkersma%20-%20Plastics%20in%20the%20Circular%20Economy-De%20Gruyter%20(2021).pdf",
+      "language": "english",
+      "date_published": "2021-01-01"
+    },
+    "company_1": {
+      "company_name": "NatureWorks LLC",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 150000,
+        "location": {
+          "country": "United States",
+          "state": "Nebraska",
+          "city": "Blair"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "NatureWorks LLC operates a facility in Blair Nebraska United States with a production capacity of 150000 metric tons per year of polylactic acid using corn as feedstock via fermentation."
+      }
+    },
+    "company_2": {
+      "company_name": "Total Corbion PLA",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 75000,
+        "location": {
+          "country": "Thailand",
+          "state": "Rayong",
+          "city": "Rayong"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Total Corbion PLA operates a plant in Rayong Thailand with a production capacity of 75000 metric tons per year of polylactic acid using sugarcane as feedstock via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Microbial Cell Factories",
+      "url": "https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-017-0807-5",
+      "language": "english",
+      "date_published": "2017-07-11"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0079670022000776",
+      "language": "english",
+      "date_published": "2022-11-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "CORE",
+      "url": "https://core.ac.uk/download/pdf/219378334.pdf",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "China Production Estimate",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 400000,
+        "location": {
+          "country": "China",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "China produces approximately 400000 metric tons of citric acid annually using fermentation of corn."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1369703X24002924",
+      "language": "english",
+      "date_published": "2024-06-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2212982025000940",
+      "language": "english",
+      "date_published": "2024-05-29"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Bulletin of the National Research Centre",
+      "url": "https://bnrc.springeropen.com/articles/10.1186/s42269-019-0105-y",
+      "language": "english",
+      "date_published": "2019-07-17"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2590123025002701",
+      "language": "english",
+      "date_published": "2024-05-30"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2025/gc/d4gc05796a",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "BASF SE",
+      "url": "https://www.basf.com/dam/jcr:46c7925b-59d6-3378-83e0-caf77d497868/basf/www/global/documents/en/investor-relations/calendar-and-publications/Factbook/BASF_Factbook_2021.pdf",
+      "language": "english",
+      "date_published": "2021-03-01"
+    },
+    "company_1": {
+      "company_name": "BASF SE",
+      "chemical_1": {
+        "chemical_name": "ammonia",
+        "volume": 8500000,
+        "location": {
+          "country": "Germany;Belgium;United States;China",
+          "state": "NA",
+          "city": "Ludwigshafen;Antwerp;Freeport;Nanjing"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "natural gas"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE is one of the world\u2019s largest producers of ammonia with a total annual capacity of 8.5 million metric tons at sites in Germany, Belgium, United States, and China."
+      },
+      "chemical_2": {
+        "chemical_name": "ethylene",
+        "volume": 3400000,
+        "location": {
+          "country": "Germany;Belgium;United States;China",
+          "state": "NA",
+          "city": "Ludwigshafen;Antwerp;Port Arthur;Nanjing"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "naphtha;ethane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE operates steam crackers with a total annual ethylene capacity of 3.4 million metric tons at sites in Germany, Belgium, United States, and China."
+      },
+      "chemical_3": {
+        "chemical_name": "propylene",
+        "volume": 3200000,
+        "location": {
+          "country": "Germany;Belgium;United States;China",
+          "state": "NA",
+          "city": "Ludwigshafen;Antwerp;Port Arthur;Nanjing"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "naphtha;ethane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE produces propylene with a total annual capacity of 3.2 million metric tons at its major steam cracker sites."
+      },
+      "chemical_4": {
+        "chemical_name": "acetylene",
+        "volume": 90000,
+        "location": {
+          "country": "Germany",
+          "state": "NA",
+          "city": "Ludwigshafen"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "natural gas"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE operates the world\u2019s largest single-train acetylene plant in Ludwigshafen, Germany, with a capacity of 90,000 metric tons per year."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Fraunhofer Center for Chemical-Biotechnological Processes CBP",
+      "url": "https://www.cbp.fraunhofer.de/content/dam/cbp/documents/berichte/BioConSepT_Market-potential-for-selected-platform-chemicals_report11.pdf",
+      "language": "english",
+      "date_published": "2014-07-01"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "1 4-butanediol",
+        "volume": 1800,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global production of bio-based 1 4-butanediol via fermentation from glucose is estimated at 1800 metric tons per year."
+      },
+      "chemical_2": {
+        "chemical_name": "succinic acid",
+        "volume": 30000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global production of bio-based succinic acid via fermentation from glucose is estimated at 30 000 metric tons per year."
+      },
+      "chemical_3": {
+        "chemical_name": "itaconic acid",
+        "volume": 15000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global production of itaconic acid via fermentation from glucose is estimated at 15 000 metric tons per year."
+      },
+      "chemical_4": {
+        "chemical_name": "levulinic acid",
+        "volume": 1000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "chemical",
+        "feedstock": {
+          "class": "secondary",
+          "input": "cellulosic biomass"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global production of levulinic acid from cellulosic biomass is estimated at 1 000 metric tons per year."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/sus2.45",
+      "language": "english",
+      "date_published": "2020-09-18"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "United States International Trade Commission",
+      "url": "https://www.usitc.gov/sites/default/files/publications/701_731/pub5583.pdf",
+      "language": "english",
+      "date_published": "2023-12-01"
+    },
+    "company_1": {
+      "company_name": "ADM",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 0,
+        "location": {
+          "country": "United States",
+          "state": "Iowa",
+          "city": "Clinton"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "ADM produces citric acid in Clinton Iowa using fermentation of corn as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "Cargill Incorporated",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 0,
+        "location": {
+          "country": "United States",
+          "state": "Iowa",
+          "city": "Eddyville"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cargill Incorporated produces citric acid in Eddyville Iowa using fermentation of corn."
+      }
+    },
+    "company_3": {
+      "company_name": "Jungbunzlauer Ladenburg GmbH",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 0,
+        "location": {
+          "country": "Austria;France;Germany;Switzerland",
+          "state": "NA",
+          "city": "Pernhofen;Marckolsheim;Ladenburg;Basel"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Jungbunzlauer produces citric acid at multiple European locations using fermentation of corn."
+      }
+    },
+    "company_4": {
+      "company_name": "COFCO Biochemical (Anhui) Co Ltd",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Anhui",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "COFCO Biochemical produces citric acid in Anhui China using fermentation of corn."
+      }
+    },
+    "company_5": {
+      "company_name": "Shandong TTCA Biochemistry Co Ltd",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong TTCA Biochemistry produces citric acid in Shandong China using fermentation of corn."
+      }
+    },
+    "company_6": {
+      "company_name": "Weifang Ensign Industry Co Ltd",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Weifang"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Weifang Ensign Industry produces citric acid in Weifang Shandong China using fermentation of corn."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2212429225009885",
+      "language": "english",
+      "date_published": "2024-06-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Biotechnology for Biofuels and Bioproducts",
+      "url": "https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-021-01949-3",
+      "language": "english",
+      "date_published": "2021-12-20"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Joule",
+      "url": "https://www.cell.com/joule/fulltext/S2542-4351(19)30047-9",
+      "language": "english",
+      "date_published": "2019-03-20"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 100000000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn;sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global annual production of ethanol by fermentation from corn and sugarcane is approximately 100 million metric tons."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0043135418301349",
+      "language": "english",
+      "date_published": "2018-04-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8484045/",
+      "language": "english",
+      "date_published": "2021-09-09"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "DECHEMA",
+      "url": "https://efce.info/dechema_media/Downloads/Positionspapiere/Positionpaper_Rohstoffbasis_engl_final.pdf",
+      "language": "english",
+      "date_published": "2016-09-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0960852422016571",
+      "language": "english",
+      "date_published": "2022-10-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0734975018301757",
+      "language": "english",
+      "date_published": "2018-11-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Cathay Biotech Inc",
+      "url": "http://m.cathaybiotech.com/en/about.aspx",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Cathay Biotech Inc",
+      "chemical_1": {
+        "chemical_name": "bio-based polyamide",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Cathay Biotech Inc produces bio-based polyamides using fermentation technology with corn as the feedstock in China."
+      },
+      "chemical_2": {
+        "chemical_name": "bio-based diacid",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Cathay Biotech Inc produces bio-based diacids using fermentation technology with corn as the feedstock in China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "BASF SE",
+      "url": "https://www.basf.com/dam/jcr:2b3572c0-f220-3ac7-b001-a179b2699ef1/BASF_Report_2007.pdf",
+      "language": "english",
+      "date_published": "2008-02-26"
+    },
+    "company_1": {
+      "company_name": "BASF SE",
+      "chemical_1": {
+        "chemical_name": "ammonia",
+        "volume": 2000000,
+        "location": {
+          "country": "Germany;Belgium;United States",
+          "state": "NA",
+          "city": "Ludwigshafen;Antwerp;Freeport"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "natural gas"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE produced approximately 2 million metric tons of ammonia annually at its Ludwigshafen (Germany), Antwerp (Belgium), and Freeport (United States) sites using natural gas as feedstock."
+      },
+      "chemical_2": {
+        "chemical_name": "hydrogen peroxide",
+        "volume": 300000,
+        "location": {
+          "country": "Germany;Belgium;United States",
+          "state": "NA",
+          "city": "Ludwigshafen;Antwerp;Geismar"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE produced approximately 300,000 metric tons of hydrogen peroxide annually at Ludwigshafen (Germany), Antwerp (Belgium), and Geismar (United States)."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11721795/",
+      "language": "english",
+      "date_published": "2023-11-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Business Analytiq",
+      "url": "https://businessanalytiq.com/procurementanalytics/index/ethylene-price-index/",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1385894725003262",
+      "language": "english",
+      "date_published": "2024-02-15"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Finetech Industry Limited",
+      "url": "https://finetechitg.com/10-best-erythritol-manufacturers-and-brands/",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Cargill Incorporated",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "United States; China; France; Germany",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cargill is a leading global producer of erythritol using fermentation of corn in multiple countries."
+      }
+    },
+    "company_2": {
+      "company_name": "Jungbunzlauer Suisse AG",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "Austria; France",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Jungbunzlauer produces erythritol by fermentation in Europe using corn as feedstock."
+      }
+    },
+    "company_3": {
+      "company_name": "Shandong Sanyuan Biotechnology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Sanyuan Biotechnology is a major Chinese erythritol producer using corn fermentation."
+      }
+    },
+    "company_4": {
+      "company_name": "Zibo ZhongShi GeRui Biotech Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Zibo"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Zibo ZhongShi GeRui Biotech produces erythritol in Zibo, Shandong, China using corn fermentation."
+      }
+    },
+    "company_5": {
+      "company_name": "Mitsubishi Chemical Corporation",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "Japan",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Mitsubishi Chemical Corporation is a Japanese producer of erythritol using fermentation."
+      }
+    },
+    "company_6": {
+      "company_name": "Baolingbao Biology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Dezhou"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Baolingbao Biology is a leading erythritol manufacturer in Dezhou, Shandong, China using corn fermentation."
+      }
+    },
+    "company_7": {
+      "company_name": "Shandong Futaste Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Futaste Technology is a major erythritol producer in Shandong, China using corn fermentation."
+      }
+    },
+    "company_8": {
+      "company_name": "Zhucheng Dongxiao Biotechnology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Zhucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Zhucheng Dongxiao Biotechnology produces erythritol in Zhucheng, Shandong, China using corn fermentation."
+      }
+    },
+    "company_9": {
+      "company_name": "Shandong Shengtong Sugar Industry Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Shengtong Sugar Industry is a Chinese erythritol producer using corn fermentation."
+      }
+    },
+    "company_10": {
+      "company_name": "Shandong Saigao Group Corporation",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Saigao Group is a Chinese manufacturer of erythritol using corn fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "CiteSeerX",
+      "url": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=25bda49450e725fd2faa7990c73b94c63b8a9d83",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The document discusses ethanol production from corn using fermentation but does not provide company-specific or quantitative production data."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "IEA Bioenergy",
+      "url": "https://www.ieabioenergy.com/wp-content/uploads/2024/03/Production-of-chemicals-and-materials-from-direct-thermochemical-liquefaction.pdf",
+      "language": "english",
+      "date_published": "2024-03-01"
+    },
+    "company_1": {
+      "company_name": "BTG Bioliquids BV",
+      "chemical_1": {
+        "chemical_name": "bio-oil",
+        "volume": 25000,
+        "location": {
+          "country": "the netherlands",
+          "state": "overijssel",
+          "city": "hengelo"
+        },
+        "method": "thermochemical",
+        "feedstock": {
+          "class": "secondary",
+          "input": "wood"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BTG Bioliquids BV operates a commercial plant in Hengelo the Netherlands producing approximately 25000 metric tons of bio-oil per year from wood using thermochemical liquefaction."
+      }
+    },
+    "company_2": {
+      "company_name": "Steeper Energy ApS",
+      "chemical_1": {
+        "chemical_name": "bio-crude oil",
+        "volume": 20000,
+        "location": {
+          "country": "denmark",
+          "state": "NA",
+          "city": "copenhagen"
+        },
+        "method": "thermochemical",
+        "feedstock": {
+          "class": "secondary",
+          "input": "wood; agricultural-waste"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "Steeper Energy ApS is planning a commercial-scale plant in Copenhagen Denmark with a projected capacity of 20000 metric tons per year of bio-crude oil from wood and agricultural waste using thermochemical liquefaction."
+      }
+    },
+    "company_3": {
+      "company_name": "Bioenergy Infrastructure Group Ltd",
+      "chemical_1": {
+        "chemical_name": "bio-oil",
+        "volume": 30000,
+        "location": {
+          "country": "united kingdom",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "thermochemical",
+        "feedstock": {
+          "class": "secondary",
+          "input": "wood"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "Bioenergy Infrastructure Group Ltd is developing a plant in the United Kingdom with a projected capacity of 30000 metric tons per year of bio-oil from wood using thermochemical liquefaction."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0734975014001566",
+      "language": "english",
+      "date_published": "2014-10-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Biotechnology for Biofuels and Bioproducts",
+      "url": "https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-024-02505-5",
+      "language": "english",
+      "date_published": "2024-06-10"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "EPCM Holdings",
+      "url": "https://epcmholdings.com/biodegradable-plastics-a-look-at-recent-developments/",
+      "language": "english",
+      "date_published": "2022-06-13"
+    },
+    "company_1": {
+      "company_name": "NatureWorks LLC",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 150000,
+        "location": {
+          "country": "United States",
+          "state": "Nebraska",
+          "city": "Blair"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "NatureWorks LLC operates a facility in Blair Nebraska producing 150000 metric tons of polylactic acid per year from corn using fermentation."
+      }
+    },
+    "company_2": {
+      "company_name": "Total Corbion PLA",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 75000,
+        "location": {
+          "country": "Thailand",
+          "state": "Rayong",
+          "city": "Rayong"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Total Corbion PLA operates a plant in Rayong Thailand with a capacity of 75000 metric tons per year of polylactic acid produced from sugarcane."
+      }
+    },
+    "company_3": {
+      "company_name": "BASF SE",
+      "chemical_1": {
+        "chemical_name": "polybutylene adipate terephthalate",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "BASF SE is mentioned as a major producer of polybutylene adipate terephthalate but no specific production volume or location is provided."
+      }
+    },
+    "company_4": {
+      "company_name": "Novamont SpA",
+      "chemical_1": {
+        "chemical_name": "polybutylene adipate terephthalate",
+        "volume": 0,
+        "location": {
+          "country": "Italy",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Novamont SpA is mentioned as a producer of polybutylene adipate terephthalate in Italy but no specific production volume is provided."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11678349/",
+      "language": "english",
+      "date_published": "2024-05-15"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2213343723023990",
+      "language": "english",
+      "date_published": "2024-03-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "SpringerLink",
+      "url": "https://link.springer.com/article/10.1007/s10098-023-02728-4",
+      "language": "english",
+      "date_published": "2023-12-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2025/su/d4su00600c",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "United States Department of Energy",
+      "url": "https://www.energy.gov/sites/default/files/2024-03/beto-2023-billion-ton-report_2.pdf",
+      "language": "english",
+      "date_published": "2024-03-01"
+    },
+    "company_1": {
+      "company_name": "United States Production Estimate",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 15000000,
+        "location": {
+          "country": "United States",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The United States produces approximately 15 million metric tons of ethanol annually using corn as the primary feedstock via fermentation."
+      },
+      "chemical_2": {
+        "chemical_name": "biodiesel",
+        "volume": 2500000,
+        "location": {
+          "country": "United States",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "green",
+        "feedstock": {
+          "class": "primary",
+          "input": "soybean oil"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The United States produces about 2.5 million metric tons of biodiesel annually from soybean oil."
+      },
+      "chemical_3": {
+        "chemical_name": "renewable diesel",
+        "volume": 2000000,
+        "location": {
+          "country": "United States",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "green",
+        "feedstock": {
+          "class": "primary",
+          "input": "soybean oil"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The United States produces about 2 million metric tons of renewable diesel annually from soybean oil."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0048969722064324",
+      "language": "english",
+      "date_published": "2022-12-15"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Biotechnology for Biofuels",
+      "url": "https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-020-01744-6",
+      "language": "english",
+      "date_published": "2020-12-14"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Biomass for the Dutch chemical industry",
+      "url": "https://cepac.cheme.cmu.edu/pasi2011/library/cremaschi/Biomass_for_the_Dutch_chemical_industry.pdf",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Netherlands Production Estimate",
+      "chemical_1": {
+        "chemical_name": "bioethanol",
+        "volume": 500000,
+        "location": {
+          "country": "Netherlands",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; wheat"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "The Dutch chemical industry projects a potential bioethanol production of 500000 metric tons per year using corn and wheat as feedstocks."
+      },
+      "chemical_2": {
+        "chemical_name": "biodiesel",
+        "volume": 1000000,
+        "location": {
+          "country": "Netherlands",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "transesterification",
+        "feedstock": {
+          "class": "primary",
+          "input": "rapeseed oil"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "The Dutch chemical industry projects a potential biodiesel production of 1000000 metric tons per year using rapeseed oil as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Nature Communications Chemistry",
+      "url": "https://www.nature.com/articles/s42004-018-0070-7",
+      "language": "english",
+      "date_published": "2018-11-16"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ResearchGate",
+      "url": "https://www.researchgate.net/figure/Polyethylene-furanoate-PEF-and-its-synthesis-via-ring-opening-polymerisation-ROP-The_fig1_326581423",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "",
+      "chemical_1": {
+        "chemical_name": "polyethylene furanoate",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The figure describes the synthesis of polyethylene furanoate (PEF) via ring-opening polymerisation using 2,5-furandicarboxylic acid derived from glucose through fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "IEA Bioenergy",
+      "url": "https://www.ieabioenergy.com/wp-content/uploads/2017/02/IEA-Bioenergy-Algae-report-update-Final-template-20170131.pdf",
+      "language": "english",
+      "date_published": "2017-01-31"
+    },
+    "company_1": {
+      "company_name": "Algenol",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 9000,
+        "location": {
+          "country": "United States",
+          "state": "Florida",
+          "city": "Fort Myers"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "algae"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "Algenol projected a commercial-scale facility producing 9000 metric tons of ethanol per year in Fort Myers Florida using algae as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "Sapphire Energy",
+      "chemical_1": {
+        "chemical_name": "crude oil",
+        "volume": 100,
+        "location": {
+          "country": "United States",
+          "state": "New Mexico",
+          "city": "Columbus"
+        },
+        "method": "green",
+        "feedstock": {
+          "class": "secondary",
+          "input": "algae"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Sapphire Energy produced 100 metric tons of algae-derived crude oil per year at its demonstration facility in Columbus New Mexico."
+      }
+    },
+    "company_3": {
+      "company_name": "Solazyme",
+      "chemical_1": {
+        "chemical_name": "algal oil",
+        "volume": 2000,
+        "location": {
+          "country": "United States;Brazil",
+          "state": "Iowa;Minas Gerais",
+          "city": "Clinton;Orindi\u00fava"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugar"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Solazyme operated facilities in Clinton Iowa and Orindi\u00fava Brazil with a combined capacity of 2000 metric tons per year of algal oil using sugar as feedstock."
+      }
+    },
+    "company_4": {
+      "company_name": "Cellana",
+      "chemical_1": {
+        "chemical_name": "algal oil",
+        "volume": 10,
+        "location": {
+          "country": "United States",
+          "state": "Hawaii",
+          "city": "Kailua-Kona"
+        },
+        "method": "green",
+        "feedstock": {
+          "class": "secondary",
+          "input": "algae"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cellana produced 10 metric tons per year of algal oil at its demonstration facility in Kailua-Kona Hawaii using algae as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Shandong Shengquan New Materials Co Ltd",
+      "url": "https://e.shengquan.com/product_layout/10880190.html",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Shandong Shengquan New Materials Co Ltd",
+      "chemical_1": {
+        "chemical_name": "furfural",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Jinan"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Shandong Shengquan New Materials Co Ltd produces furfural from corncob at its facility in Jinan Shandong China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "MDPI International Journal of Environmental Research and Public Health",
+      "url": "https://www.mdpi.com/1660-4601/12/6/6894",
+      "language": "english",
+      "date_published": "2015-06-12"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12248704/",
+      "language": "english",
+      "date_published": "2023-11-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7142368/",
+      "language": "english",
+      "date_published": "2020-03-27"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "NatureWorks LLC",
+      "url": "https://www.natureworksllc.com/about-natureworks/news/press-releases/2023/2023-10-18-natureworks-announces-next-phase-of-construction-thailand",
+      "language": "english",
+      "date_published": "2023-10-18"
+    },
+    "company_1": {
+      "company_name": "NatureWorks LLC",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 75000,
+        "location": {
+          "country": "Thailand",
+          "state": "NA",
+          "city": "Nakhon Sawan"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "NatureWorks LLC is constructing a new facility in Nakhon Sawan Thailand with a projected annual capacity of 75000 metric tons of polylactic acid produced from sugarcane using fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1385894725045218",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Frontiers in Microbiology",
+      "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2017.02012/full",
+      "language": "english",
+      "date_published": "2017-11-02"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Air Best Practices",
+      "url": "https://www.airbestpractices.com/technology/cooling-systems/chillers-provide-temperature-regulation-fine-wine",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5328816/",
+      "language": "english",
+      "date_published": "2017-02-23"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 400000,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; glucose; sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global production of lactic acid by fermentation is estimated at 400000 metric tons per year using feedstocks such as corn, glucose, and sugarcane."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Sustainea Bioglycols",
+      "url": "https://sustaineabio.com/news",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Sustainea Bioglycols",
+      "chemical_1": {
+        "chemical_name": "monoethylene glycol",
+        "volume": 0,
+        "location": {
+          "country": "Brazil",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Sustainea Bioglycols produces monoethylene glycol from sugarcane using fermentation at its facility in Brazil."
+      },
+      "chemical_2": {
+        "chemical_name": "monopropylene glycol",
+        "volume": 0,
+        "location": {
+          "country": "Brazil",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Sustainea Bioglycols produces monopropylene glycol from sugarcane using fermentation at its facility in Brazil."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9750909/",
+      "language": "english",
+      "date_published": "2022-12-01"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 2100000,
+        "location": {
+          "country": "China; United States; Europe",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; molasses; starch; sucrose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global citric acid production is estimated at 2.1 million metric tons per year, with China as the largest producer, using fermentation of corn, molasses, starch, or sucrose."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "MDPI",
+      "url": "https://www.mdpi.com/2036-7481/15/1/18",
+      "language": "english",
+      "date_published": "2024-01-09"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "European Biomass Industry Association",
+      "url": "https://www.eubia.org/cms/wiki-biomass/biofuels/bioethanol/",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "bioethanol",
+        "volume": 100000000,
+        "location": {
+          "country": "United States;Brazil;European Union",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn;sugarcane;wheat"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global bioethanol production is about 100 million metric tons per year, with the United States, Brazil, and the European Union as the main producers using corn, sugarcane, and wheat as feedstocks."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "University of Mons ORBi",
+      "url": "https://orbi.umons.ac.be/bitstream/20.500.12907/47542/1/Book%20of%20Abstracts.pdf",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  }
+]

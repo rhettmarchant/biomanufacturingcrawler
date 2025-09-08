@@ -16,7 +16,7 @@ print("API_KEY: ", API_KEY)
 print("CX: ", CX)
 
 
-def google_search(query, sort):
+def google_search(query, sort, start = 1):
     url = "https://www.googleapis.com/customsearch/v1"
     params = {
         "key": API_KEY,
@@ -24,7 +24,7 @@ def google_search(query, sort):
         "q": query,
         "sort": sort,
         # Note, the API will never return more than 10 pages of results (i.e. 101)
-        "start": 91
+        "start": start
     }
     resp = requests.get(url, params=params)
     if resp.status_code == 403:
@@ -36,12 +36,14 @@ def google_search(query, sort):
 
 def extract_results(json_data):
     items = []
+
     search = {
-        "totalResults": json_data['queries']['request'][0]['totalResults'],
-        "searchTerms": json_data['queries']['request'][0]['searchTerms'],
-        "count": json_data['queries']['request'][0]['count'],
-        "startIndex": json_data['queries']['request'][0]['startIndex']
+        "totalResults": json_data['queries']['request'][0].get('totalResults', 0),
+        "searchTerms": json_data['queries']['request'][0].get('searchTerms', ""),
+        "count": json_data['queries']['request'][0].get('count', 0),
+        "startIndex": json_data['queries']['request'][0].get('startIndex', 0)
     }
+
     if "items" in json_data:
         for item in json_data["items"]:
             result = {
@@ -70,11 +72,11 @@ def bulk_ai_search(links):
 
 
 if __name__ == "__main__":
-    query = '("polylactic acid" OR polylactide) (biomanufacturing OR bioreactor OR fermentation) ("ton" OR "tons" OR "tonnes" OR "metric ton" OR "metric tons" OR "metric tonnes") -simulation'
+    query = '"5-aminovalanoicaciddd" AND (biomanufacturing OR bioreactor OR fermentation) AND ("ton" OR "tons" OR "tonnes" OR "metric ton" OR "metric tons" OR "metric tonnes") -simulation'
     sort = "date:r"
     print("QUERY: ", query)
     print("SORT: ", sort)
-    results = google_search(query, sort)
+    results = google_search(query, sort, 1)
     product = extract_results(results)
     links = extract_links(product)
     results = bulk_ai_search(links)

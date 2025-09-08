@@ -1,0 +1,3281 @@
+[
+  {
+    "source_info": {
+      "source_name": "National Development and Reform Commission of the People's Republic of China",
+      "url": "https://www.ndrc.gov.cn/xxgk/zcfb/fzggwl/202411/P020241129575948108198.pdf",
+      "language": "chinese",
+      "date_published": "2024-06-11"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Journal of Agricultural Biotechnology",
+      "url": "http://www.nyxxb.cn/cn/article/pdf/preview/10.16801/j.issn.1008-7303.2023.0049.pdf",
+      "language": "chinese",
+      "date_published": "2023-01-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "National Medical Products Administration",
+      "url": "https://www.nmpa.gov.cn/directory/web/nmpa/images/1619771157857007835.xlsx",
+      "language": "chinese",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Changde Municipal People's Government",
+      "url": "https://www.changde.gov.cn/WZWSREL2NkengvcXhkdC9jb250ZW50Xzc4MTU1MDk1",
+      "language": "chinese",
+      "date_published": "2023-12-19"
+    },
+    "company_1": {
+      "company_name": "Hunan Shenghua Chemical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "adipic acid",
+        "volume": 400000,
+        "location": {
+          "country": "China",
+          "state": "Hunan",
+          "city": "Changde"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Hunan Shenghua Chemical Co Ltd has an annual production capacity of 400000 tons of adipic acid in Changde Hunan China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Chinese Academy of Sciences",
+      "url": "https://www.cas.cn/ky/kyjz/200712/t20071211_1028966.shtml",
+      "language": "chinese",
+      "date_published": "2007-12-11"
+    },
+    "company_1": {
+      "company_name": "Changchun Dacheng Industrial Group Co Ltd",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Jilin",
+          "city": "Changchun"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "Changchun Dacheng Industrial Group Co Ltd plans to build a lactic acid production facility with an annual capacity of 100000 metric tons using corn as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202307311592910959_1.pdf?1690814924000.pdf",
+      "language": "chinese",
+      "date_published": "2023-07-31"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 70000,
+        "location": {
+          "country": "china",
+          "state": "shandong",
+          "city": "heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd produces 70000 metric tons of xylitol per year in Heze Shandong using corncob as feedstock via fermentation."
+      },
+      "chemical_2": {
+        "chemical_name": "erythritol",
+        "volume": 20000,
+        "location": {
+          "country": "china",
+          "state": "shandong",
+          "city": "heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd produces 20000 metric tons of erythritol per year in Heze Shandong using glucose as feedstock via fermentation."
+      }
+    },
+    "company_2": {
+      "company_name": "Futaste Pharmaceutical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 120000,
+        "location": {
+          "country": "china",
+          "state": "shandong",
+          "city": "heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Futaste Pharmaceutical Co Ltd produces 120000 metric tons of xylitol per year in Heze Shandong using corncob as feedstock via fermentation."
+      },
+      "chemical_2": {
+        "chemical_name": "erythritol",
+        "volume": 50000,
+        "location": {
+          "country": "china",
+          "state": "shandong",
+          "city": "heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Futaste Pharmaceutical Co Ltd produces 50000 metric tons of erythritol per year in Heze Shandong using glucose as feedstock via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202109131515970928_1.pdf",
+      "language": "chinese",
+      "date_published": "2021-09-13"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "cellulosic ethanol",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corn stalk"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd operates a cellulosic ethanol plant in Yucheng Shandong with a production capacity of 50000 metric tons per year using corn stalk as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Fermentis",
+      "url": "https://fermentis.com/zh-hans/product/safcider-ab-1/",
+      "language": "chinese",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Fermentis",
+      "chemical_1": {
+        "chemical_name": "cider",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "apple"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Fermentis produces SafCider AB-1 yeast for the fermentation of cider from apples."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Embassy of the Republic of Korea in Xi'an",
+      "url": "https://overseas.mofa.go.kr/cn-xian-ko/brd/m_752/down.do?brd_id=13870&seq=1081455&data_tp=A&file_seq=2",
+      "language": "korean",
+      "date_published": "2023-11-29"
+    },
+    "company_1": {
+      "company_name": "China Production Estimate",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 200000,
+        "location": {
+          "country": "China",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "China's annual production capacity of polylactic acid reached 200000 tons in 2023 using corn as feedstock via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Sichuan Science and Technology Resource Center",
+      "url": "https://www.sstrc.com/Info/news_page?infoid=50521161959848",
+      "language": "chinese",
+      "date_published": "2024-05-28"
+    },
+    "company_1": {
+      "company_name": "Sichuan Hebang Biotechnology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Sichuan",
+          "city": "Leshan"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Sichuan Hebang Biotechnology Co Ltd has started production at its Leshan facility with a yearly capacity of 50000 metric tons of polylactic acid using corn as feedstock via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Enartis",
+      "url": "https://www.enartis.com/wp-content/uploads/2020/03/Enartis_Maturation_Brochure2018_220x220_CH.pdf",
+      "language": "english",
+      "date_published": "2018-01-01"
+    },
+    "company_1": {
+      "company_name": "Enartis",
+      "chemical_1": {
+        "chemical_name": "ellagic tannin",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "extraction",
+        "feedstock": {
+          "class": "secondary",
+          "input": "oak"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Enartis produces ellagic tannin extracted from oak for use in wine maturation."
+      },
+      "chemical_2": {
+        "chemical_name": "gallic tannin",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "extraction",
+        "feedstock": {
+          "class": "secondary",
+          "input": "gall nut"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Enartis produces gallic tannin extracted from gall nuts for use in wine maturation."
+      },
+      "chemical_3": {
+        "chemical_name": "proanthocyanidin tannin",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "extraction",
+        "feedstock": {
+          "class": "secondary",
+          "input": "grape seed"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Enartis produces proanthocyanidin tannin extracted from grape seeds for use in wine maturation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Jururu Info",
+      "url": "https://www.jururu.info/news/2059",
+      "language": "japanese",
+      "date_published": "2024-06-13"
+    },
+    "company_1": {
+      "company_name": "Mitsubishi Corporation",
+      "chemical_1": {
+        "chemical_name": "bioethanol",
+        "volume": 0,
+        "location": {
+          "country": "Japan",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "wood"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "NA"
+        },
+        "notes": "Mitsubishi Corporation plans to build Japan's first commercial-scale plant to produce bioethanol from wood using fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Xinhuanet",
+      "url": "http://www.xinhuanet.com/fortune/2021-01/04/c_1126944182.htm",
+      "language": "chinese",
+      "date_published": "2021-01-04"
+    },
+    "company_1": {
+      "company_name": "Shandong Yuwang Industrial Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 70000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Zibo"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Yuwang Industrial Co Ltd is the world's largest erythritol producer with an annual production capacity of 70,000 metric tons using corn as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "Baolingbao Biology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 35000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Dezhou"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Baolingbao Biology Co Ltd has an annual erythritol production capacity of 35,000 metric tons using corn as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "MIT Technology Review China",
+      "url": "https://www.mittrchina.com/news/detail/5677",
+      "language": "chinese",
+      "date_published": "2023-11-21"
+    },
+    "company_1": {
+      "company_name": "Solugen Inc",
+      "chemical_1": {
+        "chemical_name": "hydrogen peroxide",
+        "volume": 10000,
+        "location": {
+          "country": "United States",
+          "state": "Texas",
+          "city": "Houston"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Solugen Inc produces approximately 10000 metric tons of hydrogen peroxide per year at its Houston Texas facility using fermentation of glucose."
+      },
+      "chemical_2": {
+        "chemical_name": "gluconic acid",
+        "volume": 0,
+        "location": {
+          "country": "United States",
+          "state": "Texas",
+          "city": "Houston"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "Solugen Inc also produces gluconic acid as a co-product at its Houston Texas facility using fermentation of glucose but no specific production volume is provided."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Guangdong Provincial Department of Ecology and Environment",
+      "url": "https://gdee.gd.gov.cn/attachment/0/505/505999/3026402.pdf",
+      "language": "chinese",
+      "date_published": "2023-12-29"
+    },
+    "company_1": {
+      "company_name": "Guangdong Guanghua Sci-Tech Co Ltd",
+      "chemical_1": {
+        "chemical_name": "hydrogen peroxide",
+        "volume": 150000,
+        "location": {
+          "country": "China",
+          "state": "Guangdong",
+          "city": "Shantou"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Guangdong Guanghua Sci-Tech Co Ltd produces 150000 metric tons of hydrogen peroxide per year at its facility in Shantou Guangdong China."
+      }
+    },
+    "company_2": {
+      "company_name": "Guangdong Zhongcheng Chemical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "hydrogen peroxide",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Guangdong",
+          "city": "Jiangmen"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Guangdong Zhongcheng Chemical Co Ltd produces 100000 metric tons of hydrogen peroxide per year at its facility in Jiangmen Guangdong China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Orient Securities Company Limited",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202106241499680842_1.pdf?1624527501000.pdf",
+      "language": "chinese",
+      "date_published": "2021-06-24"
+    },
+    "company_1": {
+      "company_name": "Cathay Biotech Inc",
+      "chemical_1": {
+        "chemical_name": "1 5 pentanediamine",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shanghai",
+          "city": "Shanghai"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cathay Biotech Inc has a production capacity of 100000 tons per year of 1 5 pentanediamine using fermentation from glucose at its Shanghai facility."
+      },
+      "chemical_2": {
+        "chemical_name": "polyamide 56",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shanghai",
+          "city": "Shanghai"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cathay Biotech Inc produces 50000 tons per year of polyamide 56 using fermentation-derived 1 5 pentanediamine from glucose at its Shanghai facility."
+      }
+    },
+    "company_2": {
+      "company_name": "Shandong Huafeng Biotechnology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "1 3 propanediol",
+        "volume": 65000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Huafeng Biotechnology Co Ltd has a production capacity of 65000 tons per year of 1 3 propanediol using fermentation from glucose."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Jururu Info",
+      "url": "http://jururu.info/news/976",
+      "language": "japanese",
+      "date_published": "2023-12-13"
+    },
+    "company_1": {
+      "company_name": "Mitsubishi Gas Chemical Company Inc",
+      "chemical_1": {
+        "chemical_name": "methanol",
+        "volume": 0,
+        "location": {
+          "country": "Japan",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "natural gas"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Mitsubishi Gas Chemical Company Inc is Japan's only domestic methanol manufacturer, producing methanol from natural gas."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "360doc",
+      "url": "http://www.360doc.com/content/23/0527/05/79489134_1082288762.shtml",
+      "language": "chinese",
+      "date_published": "2023-05-27"
+    },
+    "company_1": {
+      "company_name": "Henan Jindan Lactic Acid Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 160000,
+        "location": {
+          "country": "China",
+          "state": "Henan",
+          "city": "Xuchang"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Henan Jindan Lactic Acid Technology Co Ltd has a yearly production capacity of 160000 metric tons of lactic acid using corn as feedstock via fermentation in Xuchang Henan China."
+      }
+    },
+    "company_2": {
+      "company_name": "COFCO Biochemical (Anhui) Co Ltd",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Anhui",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "COFCO Biochemical (Anhui) Co Ltd has a yearly production capacity of 100000 metric tons of lactic acid using corn as feedstock via fermentation in Anhui China."
+      }
+    },
+    "company_3": {
+      "company_name": "Shandong Baisheng Biotechnology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Baisheng Biotechnology Co Ltd has a yearly production capacity of 50000 metric tons of lactic acid using corn as feedstock via fermentation in Shandong China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Xinhua News Agency Shandong Channel",
+      "url": "http://sd.news.cn/20250704/ff3500c5dac441e0b9009aa98fefb5fd/c.html",
+      "language": "chinese",
+      "date_published": "2024-07-04"
+    },
+    "company_1": {
+      "company_name": "Shandong Lunan Chemical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Tengzhou"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Lunan Chemical Co Ltd has launched a polylactic acid project with an annual production capacity of 100000 metric tons using corn as feedstock in Tengzhou Shandong."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Journal of Guangxi University",
+      "url": "https://html.rhhz.net/gzty/20110512.htm",
+      "language": "chinese",
+      "date_published": "2011-05-12"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The article discusses the production of lactic acid by fermentation using glucose as a feedstock, but does not mention any specific company or production volume."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "China National Intellectual Property Administration",
+      "url": "https://patentimages.storage.googleapis.com/09/da/1c/ea45de42ba3c18/CN102803483B.pdf",
+      "language": "chinese",
+      "date_published": "2015-07-29"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corn straw;wheat straw"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a method for producing lactic acid by fermenting corn straw and wheat straw after pretreatment and enzymatic hydrolysis."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202111151529192105_1.pdf?1636984073000.pdf",
+      "language": "chinese",
+      "date_published": "2021-11-15"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "cellulosic ethanol",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corn stover; straw"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd operates a cellulosic ethanol plant in Yucheng Shandong with an annual production capacity of 50000 metric tons using corn stover and straw as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "Jilin Fuel Ethanol Co Ltd",
+      "chemical_1": {
+        "chemical_name": "fuel ethanol",
+        "volume": 600000,
+        "location": {
+          "country": "China",
+          "state": "Jilin",
+          "city": "Jilin"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Jilin Fuel Ethanol Co Ltd produces 600000 metric tons of fuel ethanol per year in Jilin using corn as the primary feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "CABI Digital Library",
+      "url": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20230489995",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Shandong Provincial Development and Reform Commission",
+      "url": "http://fgw.shandong.gov.cn/art/2019/6/20/art_91137_7402454.html",
+      "language": "chinese",
+      "date_published": "2019-06-20"
+    },
+    "company_1": {
+      "company_name": "Shandong Lianmeng Chemical Group Co Ltd",
+      "chemical_1": {
+        "chemical_name": "polyethylene glycol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Lianmeng Chemical Group Co Ltd is a leading producer of polyethylene glycol in Shandong Province."
+      }
+    },
+    "company_2": {
+      "company_name": "Shandong Hualu Hengsheng Chemical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "urea",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Hualu Hengsheng Chemical Co Ltd is a major producer of urea in Shandong Province."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Chinese Academy of Sciences",
+      "url": "https://www.cas.cn/zt/sszt/75yq/cg/202410/t20241017_5036452.shtml",
+      "language": "chinese",
+      "date_published": "2024-10-17"
+    },
+    "company_1": {
+      "company_name": "Dalian Institute of Chemical Physics Chinese Academy of Sciences",
+      "chemical_1": {
+        "chemical_name": "ethylene glycol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Liaoning",
+          "city": "Dalian"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "cellulose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "The Dalian Institute of Chemical Physics Chinese Academy of Sciences developed a process for producing ethylene glycol from cellulose using fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Google Patents",
+      "url": "https://patents.google.com/patent/CN100506972C/zh",
+      "language": "chinese",
+      "date_published": "2007-06-20"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "cellulose"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a method for producing lactic acid by fermenting cellulose hydrolysate but does not specify a company or production volume."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Fujian Provincial Department of Science and Technology",
+      "url": "http://kjt.fujian.gov.cn/ztzl/kjcg/zzy/201711/t20171108_543880.htm",
+      "language": "chinese",
+      "date_published": "2017-11-08"
+    },
+    "company_1": {
+      "company_name": "Fujian Longyan Tianren Biological Products Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 20000,
+        "location": {
+          "country": "China",
+          "state": "Fujian",
+          "city": "Longyan"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Fujian Longyan Tianren Biological Products Co Ltd has an annual production capacity of 20000 metric tons of erythritol using fermentation of glucose."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "moomoo",
+      "url": "https://www.moomoo.com/hans/news/post/19190790",
+      "language": "chinese",
+      "date_published": "2024-06-13"
+    },
+    "company_1": {
+      "company_name": "Shandong Yulong Petrochemical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "ethylene",
+        "volume": 3000000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Longkou"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Yulong Petrochemical Co Ltd has started production at its 3 million ton per year ethylene plant in Longkou Shandong China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "The Central People's Government of the People's Republic of China",
+      "url": "https://www.gov.cn/gongbao/content/2017/content_5237697.htm",
+      "language": "chinese",
+      "date_published": "2017-01-20"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202101181451808100_1.pdf",
+      "language": "chinese",
+      "date_published": "2021-01-18"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "cellulosic ethanol",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd operates a cellulosic ethanol plant in Yucheng Shandong with an annual production capacity of 50000 metric tons using corncob as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Chinese Journal of Biotechnology",
+      "url": "https://cjb.ijournals.cn/html/cjbcn/2024/8/gc24082678.htm",
+      "language": "chinese",
+      "date_published": "2024-06-18"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202308111594146571_1.pdf?1691772753000.pdf",
+      "language": "chinese",
+      "date_published": "2023-08-11"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 100000,
+        "location": {
+          "country": "china",
+          "state": "shandong",
+          "city": "heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd has an annual production capacity of 100000 metric tons of xylitol using corncob as feedstock at its Heze facility in Shandong China."
+      },
+      "chemical_2": {
+        "chemical_name": "erythritol",
+        "volume": 20000,
+        "location": {
+          "country": "china",
+          "state": "shandong",
+          "city": "heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd produces 20000 metric tons of erythritol annually at its Heze facility using glucose as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "Futaste Pharmaceutical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 120000,
+        "location": {
+          "country": "china",
+          "state": "shandong",
+          "city": "heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Futaste Pharmaceutical Co Ltd has an annual xylitol production capacity of 120000 metric tons at its Heze facility using corncob as feedstock."
+      },
+      "chemical_2": {
+        "chemical_name": "erythritol",
+        "volume": 100000,
+        "location": {
+          "country": "china",
+          "state": "shandong",
+          "city": "heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Futaste Pharmaceutical Co Ltd produces 100000 metric tons of erythritol annually at its Heze facility using glucose as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Jururu Info",
+      "url": "https://www.jururu.info/news/883",
+      "language": "japanese",
+      "date_published": "2024-06-10"
+    },
+    "company_1": {
+      "company_name": "Mitsubishi Gas Chemical Company Inc",
+      "chemical_1": {
+        "chemical_name": "methanol",
+        "volume": 0,
+        "location": {
+          "country": "Japan",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "green",
+        "feedstock": {
+          "class": "secondary",
+          "input": "wood"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "NA"
+        },
+        "notes": "Mitsubishi Gas Chemical Company Inc plans to produce green methanol from wood-based biomass in Japan as part of a demonstration project."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Rosen Chemicals",
+      "url": "http://www.rosen-chemicals.com/article/18.html",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Rosen Chemicals",
+      "chemical_1": {
+        "chemical_name": "sodium carboxymethyl cellulose",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Qingdao"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Rosen Chemicals produces sodium carboxymethyl cellulose in Qingdao Shandong China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Google Patents",
+      "url": "https://patents.google.com/patent/CN107326051A/zh",
+      "language": "chinese",
+      "date_published": "2017-11-14"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "agricultural-waste"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a method for producing lactic acid by fermentation using agricultural waste as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Jururu Info",
+      "url": "https://www.jururu.info/news/1530",
+      "language": "japanese",
+      "date_published": "2024-05-29"
+    },
+    "company_1": {
+      "company_name": "Mitsubishi Corporation",
+      "chemical_1": {
+        "chemical_name": "bioethanol",
+        "volume": 0,
+        "location": {
+          "country": "Japan",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "wood"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "NA"
+        },
+        "notes": "Mitsubishi Corporation plans to produce bioethanol from wood using fermentation in Japan as part of a demonstration project."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Chinese Journal of Biotechnology",
+      "url": "https://cjb.ijournals.cn/html/cjbcn/2016/6/gc16060715.htm",
+      "language": "chinese",
+      "date_published": "2016-06-15"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 400000,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; glucose; starch"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global annual production of lactic acid by fermentation is about 400000 metric tons using corn, glucose, and starch as main feedstocks."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Tanpaifang",
+      "url": "http://www.tanpaifang.com/tanguwen/2020/0617/71593.html",
+      "language": "chinese",
+      "date_published": "2020-06-17"
+    },
+    "company_1": {
+      "company_name": "Henan Jindan Lactic Acid Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 120000,
+        "location": {
+          "country": "China",
+          "state": "Henan",
+          "city": "Xinxiang"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Henan Jindan Lactic Acid Technology Co Ltd produces 120000 metric tons of lactic acid per year in Xinxiang Henan using corn as feedstock via fermentation."
+      }
+    },
+    "company_2": {
+      "company_name": "COFCO Biochemical (AnHui) Co Ltd",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Anhui",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "COFCO Biochemical (AnHui) Co Ltd produces 50000 metric tons of lactic acid per year in Anhui China using corn as feedstock via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "China National Intellectual Property Administration",
+      "url": "https://patentimages.storage.googleapis.com/0c/79/10/8fa47b5e8cc8e3/CN105263324A.pdf",
+      "language": "chinese",
+      "date_published": "2016-01-20"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corn straw"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a method for producing lactic acid by fermenting corn straw but does not specify any company, production volume, or facility location."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Bazhou Sanyuan Chemical Co Ltd",
+      "url": "http://www.bzsanyuan.com/?list_32/156.html",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Bazhou Sanyuan Chemical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "sodium formate",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Hebei",
+          "city": "Bazhou"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Bazhou Sanyuan Chemical Co Ltd produces sodium formate in Bazhou Hebei China but no production volume or method is specified."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Jilin Provincial People's Government",
+      "url": "http://www.jlbc.gov.cn/xxgk_3148/sz/202505/t20250519_1013759.html",
+      "language": "chinese",
+      "date_published": "2025-05-19"
+    },
+    "company_1": {
+      "company_name": "Jilin Chemical Fiber Group Co Ltd",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 120000,
+        "location": {
+          "country": "China",
+          "state": "Jilin",
+          "city": "Jilin"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Jilin Chemical Fiber Group Co Ltd has an annual production capacity of 120000 metric tons of polylactic acid using corn as feedstock in Jilin City."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "360doc",
+      "url": "http://www.360doc.com/content/23/0802/14/79489134_1090944179.shtml",
+      "language": "chinese",
+      "date_published": "2023-08-02"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-technology Co Ltd produces 100000 metric tons of xylitol per year in Yucheng Shandong using corncob as feedstock via fermentation."
+      }
+    },
+    "company_2": {
+      "company_name": "Futaste Pharmaceutical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 70000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Futaste Pharmaceutical Co Ltd produces 70000 metric tons of xylitol per year in Heze Shandong using corncob as feedstock via fermentation."
+      }
+    },
+    "company_3": {
+      "company_name": "Shandong Lujian Biological Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 30000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Lujian Biological Technology Co Ltd produces 30000 metric tons of xylitol per year in Shandong using corncob as feedstock via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202204171559693722_1.pdf",
+      "language": "chinese",
+      "date_published": "2022-04-17"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "cellulosic ethanol",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corn-straw"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd operates a cellulosic ethanol plant in Yucheng Shandong with a production capacity of 50000 metric tons per year using corn-straw as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Google Patents",
+      "url": "https://patents.google.com/patent/CN105441372A/zh",
+      "language": "chinese",
+      "date_published": "2016-03-30"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "cassava residue"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a method for producing lactic acid by fermenting cassava residue but does not specify a company or production volume."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Fujian Institute of Research on the Structure of Matter Chinese Academy of Sciences",
+      "url": "http://www.fjirsm.cas.cn/hxcxyjy/cxykyjz/201911/t20191101_5416393.html",
+      "language": "chinese",
+      "date_published": "2019-11-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Stockholm Convention (POPs) Secretariat",
+      "url": "https://www.pops.int/Portals/0/download.aspx?d=UNEP-POPS-POPRC.14-6-Add.2.Chinese.pdf",
+      "language": "chinese",
+      "date_published": "2018-09-17"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Intellectual Property Office Ministry of Economic Affairs Taiwan",
+      "url": "https://www.tipo.gov.tw/wSite/public/Attachment/0/f1748247133297.pdf",
+      "language": "english",
+      "date_published": "2023-09-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "China News Service",
+      "url": "https://www.chinanews.com.cn/ny/2013/08-21/5188218.shtml",
+      "language": "chinese",
+      "date_published": "2013-08-21"
+    },
+    "company_1": {
+      "company_name": "Henan Tianguan Group Co Ltd",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 500000,
+        "location": {
+          "country": "China",
+          "state": "Henan",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "wheat straw;corn straw;cotton straw;rice straw"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Henan Tianguan Group Co Ltd produces 500000 metric tons of ethanol per year using wheat straw, corn straw, cotton straw, and rice straw as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Ningbo Institute of Materials Technology and Engineering Chinese Academy of Sciences",
+      "url": "https://jzhang.nimte.ac.cn/view-28868.html",
+      "language": "chinese",
+      "date_published": "2023-12-13"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Google Patents",
+      "url": "https://patents.google.com/patent/CN101974151B/zh",
+      "language": "chinese",
+      "date_published": "2012-12-19"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "cassava residue"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a method for producing lactic acid by fermenting cassava residue but does not specify any company, production volume, or facility location."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "NP113",
+      "url": "http://www.np113.com/c381.html",
+      "language": "chinese",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Shandong Yuwang Industrial Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 70000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Zibo"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Yuwang Industrial Co Ltd is the largest erythritol producer in China with an annual capacity of 70000 tons using corn as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "Baolingbao Biology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 60000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Dezhou"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Baolingbao Biology Co Ltd produces 60000 tons of erythritol annually in Dezhou Shandong using corn as feedstock."
+      }
+    },
+    "company_3": {
+      "company_name": "Shandong Sanyuan Biotechnology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 40000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Sanyuan Biotechnology Co Ltd has an annual erythritol production capacity of 40000 tons in Heze Shandong using corn."
+      }
+    },
+    "company_4": {
+      "company_name": "Zibo Zhongshi Biotechnology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 30000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Zibo"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Zibo Zhongshi Biotechnology Co Ltd produces 30000 tons of erythritol annually in Zibo Shandong using corn."
+      }
+    },
+    "company_5": {
+      "company_name": "Shandong Fuyang Biotechnology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 20000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Linyi"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Fuyang Biotechnology Co Ltd has an annual erythritol production capacity of 20000 tons in Linyi Shandong using corn."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Keyuan Fund",
+      "url": "https://www.keyuanfund.com/newsinfo/7283288.html",
+      "language": "chinese",
+      "date_published": "2023-11-21"
+    },
+    "company_1": {
+      "company_name": "Shandong Yuwang Industrial Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 160000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Zibo"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Yuwang Industrial Co Ltd is the world's largest erythritol producer with an annual capacity of 160000 tons using corn as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "Baolingbao Biology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 120000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Dezhou"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Baolingbao Biology Co Ltd has an annual erythritol production capacity of 120000 tons using corn as feedstock."
+      }
+    },
+    "company_3": {
+      "company_name": "Zhuoyue Biology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Zhuoyue Biology Co Ltd has an annual erythritol production capacity of 100000 tons using corn as feedstock."
+      }
+    },
+    "company_4": {
+      "company_name": "Shandong Sanyuan Biotechnology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "erythritol",
+        "volume": 80000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Jining"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Sanyuan Biotechnology Co Ltd has an annual erythritol production capacity of 80000 tons using corn as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "12371.cn",
+      "url": "https://www.12371.cn/2021/07/29/ARTI1627546449112495.shtml",
+      "language": "chinese",
+      "date_published": "2021-07-29"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "China Petroleum and Chemical Industry Federation",
+      "url": "https://www.cpcic.org/Data/View/3015",
+      "language": "chinese",
+      "date_published": "2023-12-29"
+    },
+    "company_1": {
+      "company_name": "China Production Estimate",
+      "chemical_1": {
+        "chemical_name": "ethylene",
+        "volume": 3240,
+        "location": {
+          "country": "China",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "2023"
+        },
+        "notes": "China's ethylene production in 2023 reached 3.24 million metric tons."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "kcycrawlerfile",
+      "url": "https://kcycrawlerfile.oss-cn-beijing.aliyuncs.com/2025/08/05/96698cd1a48c4a4481033b749e5f620a.docx",
+      "language": "chinese",
+      "date_published": "2025-08-05"
+    },
+    "company_1": {
+      "company_name": "Shandong Yuwang Industrial Co Ltd",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Yuwang Industrial Co Ltd produces 100000 metric tons of citric acid annually in Yucheng Shandong using corn as feedstock via fermentation."
+      }
+    },
+    "company_2": {
+      "company_name": "Anhui BBCA Biochemical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 120000,
+        "location": {
+          "country": "China",
+          "state": "Anhui",
+          "city": "Bengbu"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Anhui BBCA Biochemical Co Ltd produces 120000 metric tons of citric acid per year in Bengbu Anhui using corn as feedstock via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Progress in Chemistry",
+      "url": "https://manu56.magtech.com.cn/progchem/CN/article/downloadArticleFile.do?attachType=PDF&id=9517",
+      "language": "chinese",
+      "date_published": "2012-01-01"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "succinic acid",
+        "volume": 16000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The global production capacity of bio-based succinic acid reached about 16000 metric tons per year as of 2011 using fermentation of glucose."
+      }
+    },
+    "company_2": {
+      "company_name": "BioAmber Inc",
+      "chemical_1": {
+        "chemical_name": "succinic acid",
+        "volume": 2000,
+        "location": {
+          "country": "France",
+          "state": "NA",
+          "city": "Pomacle"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BioAmber Inc operates a plant in Pomacle France with a production capacity of 2000 metric tons per year of bio-based succinic acid using glucose fermentation."
+      }
+    },
+    "company_3": {
+      "company_name": "Myriant Technologies LLC",
+      "chemical_1": {
+        "chemical_name": "succinic acid",
+        "volume": 14000,
+        "location": {
+          "country": "United States",
+          "state": "Louisiana",
+          "city": "Lake Providence"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "Myriant Technologies LLC planned to build a plant in Lake Providence Louisiana with a projected capacity of 14000 metric tons per year of bio-based succinic acid using glucose fermentation."
+      }
+    },
+    "company_4": {
+      "company_name": "Reverdia VOF",
+      "chemical_1": {
+        "chemical_name": "succinic acid",
+        "volume": 10000,
+        "location": {
+          "country": "Netherlands",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "Reverdia VOF planned to build a plant in the Netherlands with a projected capacity of 10000 metric tons per year of bio-based succinic acid using glucose fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Nouryon",
+      "url": "https://www.nouryon.com/globalassets/nouryon/countries/china/downloads/2.pdf",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Nouryon",
+      "chemical_1": {
+        "chemical_name": "hydrogen peroxide",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Jining"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "Nouryon operates a hydrogen peroxide production facility in Jining Shandong China."
+      },
+      "chemical_2": {
+        "chemical_name": "sodium chlorate",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Guangdong",
+          "city": "Guangzhou"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "Nouryon produces sodium chlorate in Guangzhou Guangdong China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Fujian Provincial People's Government",
+      "url": "http://www.fujian.gov.cn/nrrh/sgxt/202309/U020240828361486015828.pdf",
+      "language": "chinese",
+      "date_published": "2023-09-01"
+    },
+    "company_1": {
+      "company_name": "Fujian Zhongjing Petrochemical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 120000,
+        "location": {
+          "country": "China",
+          "state": "Fujian",
+          "city": "Quanzhou"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Fujian Zhongjing Petrochemical Co Ltd operates a 120000 metric ton per year polylactic acid plant in Quanzhou using corn as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Jilin Provincial People's Government",
+      "url": "https://www.jl.gov.cn/szfzt/tzcj/zdxm/syhgxm/202503/t20250320_3418004.html",
+      "language": "chinese",
+      "date_published": "2025-03-20"
+    },
+    "company_1": {
+      "company_name": "Jilin Chemical Fiber Group Co Ltd",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 120000,
+        "location": {
+          "country": "China",
+          "state": "Jilin",
+          "city": "Jilin"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Jilin Chemical Fiber Group Co Ltd operates a 120000 metric ton per year polylactic acid project in Jilin City using corn as the feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Zhihu",
+      "url": "https://zhuanlan.zhihu.com/p/691482409",
+      "language": "chinese",
+      "date_published": "2024-05-21"
+    },
+    "company_1": {
+      "company_name": "Cathay Biotech Inc",
+      "chemical_1": {
+        "chemical_name": "1 5 pentanediamine",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shanghai",
+          "city": "Shanghai"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cathay Biotech Inc has a production capacity of 100000 tons per year of 1 5 pentanediamine using glucose as feedstock via fermentation in Shanghai."
+      },
+      "chemical_2": {
+        "chemical_name": "polyamide 56",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shanghai",
+          "city": "Shanghai"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cathay Biotech Inc produces 50000 tons per year of polyamide 56 using glucose as feedstock via fermentation in Shanghai."
+      }
+    },
+    "company_2": {
+      "company_name": "Shandong Landian Biological Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "1 5 pentanediamine",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Landian Biological Technology Co Ltd has a production capacity of 50000 tons per year of 1 5 pentanediamine using glucose as feedstock via fermentation in Shandong."
+      },
+      "chemical_2": {
+        "chemical_name": "polyamide 56",
+        "volume": 20000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Landian Biological Technology Co Ltd produces 20000 tons per year of polyamide 56 using glucose as feedstock via fermentation in Shandong."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Google Patents",
+      "url": "https://patents.google.com/patent/CN101962664A/zh",
+      "language": "chinese",
+      "date_published": "2011-01-19"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a method for producing lactic acid by fermentation using corn as the feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202302191583372294_1.pdf",
+      "language": "chinese",
+      "date_published": "2023-02-19"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "cellulosic ethanol",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd operates a 50,000 metric ton per year cellulosic ethanol plant in Yucheng using corncob as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Huakang Pharmaceutical Co Ltd",
+      "url": "https://www.huakangpharma.com/development-path",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Huakang Pharmaceutical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "vitamin c",
+        "volume": 0,
+        "location": {
+          "country": "china",
+          "state": "henan",
+          "city": "neixiang"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "Huakang Pharmaceutical Co Ltd established a vitamin C production line in Neixiang Henan China."
+      },
+      "chemical_2": {
+        "chemical_name": "sodium ascorbate",
+        "volume": 0,
+        "location": {
+          "country": "china",
+          "state": "henan",
+          "city": "neixiang"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "Huakang Pharmaceutical Co Ltd established a sodium ascorbate production line in Neixiang Henan China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Google Patents",
+      "url": "https://patents.google.com/patent/CN110106209B/zh",
+      "language": "chinese",
+      "date_published": "2021-09-14"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "agricultural-waste"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a method for producing lactic acid by fermenting agricultural waste but does not specify a company, production volume, or location."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Tianjin Institute of Industrial Biotechnology Chinese Academy of Sciences",
+      "url": "http://www.tib.cas.cn/cgzh/cgtj/202410/t20241014_7399311.html",
+      "language": "chinese",
+      "date_published": "2024-10-14"
+    },
+    "company_1": {
+      "company_name": "Tianjin Institute of Industrial Biotechnology Chinese Academy of Sciences",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 10000,
+        "location": {
+          "country": "china",
+          "state": "tianjin",
+          "city": "tianjin"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The Tianjin Institute of Industrial Biotechnology Chinese Academy of Sciences has achieved an annual production capacity of 10,000 tons of polylactic acid using glucose as feedstock via fermentation in Tianjin."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202401241617991386_1.pdf?1706101777000.pdf",
+      "language": "chinese",
+      "date_published": "2024-01-24"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd has a yearly production capacity of 100000 metric tons of xylitol using corncob as feedstock at its Yucheng facility in Shandong China."
+      },
+      "chemical_2": {
+        "chemical_name": "erythritol",
+        "volume": 20000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd has a yearly production capacity of 20000 metric tons of erythritol using glucose as feedstock at its Yucheng facility in Shandong China."
+      }
+    },
+    "company_2": {
+      "company_name": "Futaste Pharmaceutical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 140000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Futaste Pharmaceutical Co Ltd has a yearly production capacity of 140000 metric tons of xylitol using corncob as feedstock at its Heze facility in Shandong China."
+      },
+      "chemical_2": {
+        "chemical_name": "erythritol",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Futaste Pharmaceutical Co Ltd has a yearly production capacity of 50000 metric tons of erythritol using glucose as feedstock at its Heze facility in Shandong China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Jiangsu Feiyide Technology Development Co Ltd",
+      "url": "https://www.js-fyd.com/a/xinwendongtai/changjianwenti/195.html",
+      "language": "chinese",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Jiangsu Feiyide Technology Development Co Ltd",
+      "chemical_1": {
+        "chemical_name": "sodium gluconate",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Jiangsu",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Jiangsu Feiyide Technology Development Co Ltd produces sodium gluconate by fermentation using glucose as the feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Google Patents",
+      "url": "https://patents.google.com/patent/CN1084762C/zh",
+      "language": "chinese",
+      "date_published": "2002-02-20"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a process for producing lactic acid by fermentation using corn as the feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Chinese Academy of Sciences",
+      "url": "https://www.cas.cn/xw/cmsm/201401/t20140114_4022555.shtml",
+      "language": "chinese",
+      "date_published": "2014-01-14"
+    },
+    "company_1": {
+      "company_name": "Shandong Fufeng Group Ltd",
+      "chemical_1": {
+        "chemical_name": "monosodium glutamate",
+        "volume": 1000000,
+        "location": {
+          "country": "china",
+          "state": "shandong",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Fufeng Group Ltd produces over 1 million metric tons of monosodium glutamate per year using corn as feedstock via fermentation."
+      }
+    },
+    "company_2": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Guosheng Technology",
+      "url": "http://www.guoshengtech.com/newsinfo/6906800.html",
+      "language": "chinese",
+      "date_published": "2023-12-18"
+    },
+    "company_1": {
+      "company_name": "Guosheng Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Jiangsu",
+          "city": "Lianyungang"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Guosheng Technology Co Ltd has completed and put into operation a 100000 metric ton per year polylactic acid project in Lianyungang Jiangsu China using corn as the feedstock via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "CABI Digital Library",
+      "url": "https://www.cabidigitallibrary.org/doi/pdf/10.5555/20193083000",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "China National Light Industry Council",
+      "url": "http://www.cnlic.org.cn/ZhinNengBuShi/KeJiHuanBaoBu/kjhbbzxgz/201701/P020170112053529.pdf",
+      "language": "chinese",
+      "date_published": "2017-01-12"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Danyang Economic and Technological Development Zone",
+      "url": "http://www.dypedz.gov.cn/uploadfiles/2018-11/20181119161952.pdf",
+      "language": "chinese",
+      "date_published": "2018-11-19"
+    },
+    "company_1": {
+      "company_name": "Jiangsu Guotai Liquorice Co Ltd",
+      "chemical_1": {
+        "chemical_name": "glycyrrhizin",
+        "volume": 2000,
+        "location": {
+          "country": "China",
+          "state": "Jiangsu",
+          "city": "Danyang"
+        },
+        "method": "extraction",
+        "feedstock": {
+          "class": "secondary",
+          "input": "liquorice root"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Jiangsu Guotai Liquorice Co Ltd produces 2000 metric tons of glycyrrhizin per year in Danyang using liquorice root extraction."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Google Patents",
+      "url": "https://patents.google.com/patent/CN101275151A/zh",
+      "language": "chinese",
+      "date_published": "2008-09-24"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The patent describes a method for producing lactic acid by fermenting corncob hydrolysate using lactic acid bacteria."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "IN-EN Energy",
+      "url": "https://mnewenergy.in-en.com/html/newenergy-2415514.shtml",
+      "language": "english",
+      "date_published": "2024-06-12"
+    },
+    "company_1": {
+      "company_name": "Jiangsu Sailboat Petrochemical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "biodegradable polyester",
+        "volume": 60000,
+        "location": {
+          "country": "China",
+          "state": "Jiangsu",
+          "city": "Lianyungang"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Jiangsu Sailboat Petrochemical Co Ltd has achieved an annual production capacity of 60000 metric tons of biodegradable polyester using corn as feedstock via fermentation in Lianyungang Jiangsu China."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Chinese Academy of Sciences Dalian Institute of Chemical Physics",
+      "url": "https://zcc.dicp.ac.cn/sheng2022.pdf",
+      "language": "english",
+      "date_published": "2022-01-01"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 100000000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn;sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global ethanol production is estimated at over 100 million metric tons per year, primarily via fermentation of corn and sugarcane."
+      },
+      "chemical_2": {
+        "chemical_name": "lactic acid",
+        "volume": 1000000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn;starch"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global lactic acid production exceeds 1 million metric tons per year, mainly using fermentation of corn and starch."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Shandong Xiangchi Jianyuan Bio-Tech Co Ltd",
+      "url": "https://www.xiangchi.com/content/details14_241.html",
+      "language": "chinese",
+      "date_published": "2023-03-10"
+    },
+    "company_1": {
+      "company_name": "Shandong Xiangchi Jianyuan Bio-Tech Co Ltd",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 1000000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Xiangchi Jianyuan Bio-Tech Co Ltd produces 1 million metric tons of ethanol per year in Heze Shandong China using corn as feedstock via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202312291615475016_1.pdf",
+      "language": "chinese",
+      "date_published": "2023-12-29"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd is the world's largest xylitol producer with an annual production capacity of 100000 metric tons using corncob as feedstock."
+      },
+      "chemical_2": {
+        "chemical_name": "erythritol",
+        "volume": 20000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The company has an annual erythritol production capacity of 20000 metric tons using glucose as feedstock."
+      }
+    },
+    "company_2": {
+      "company_name": "Futaste Pharmaceutical Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylitol",
+        "volume": 70000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Futaste Pharmaceutical Co Ltd has an annual xylitol production capacity of 70000 metric tons using corncob as feedstock."
+      },
+      "chemical_2": {
+        "chemical_name": "erythritol",
+        "volume": 10000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The company has an annual erythritol production capacity of 10000 metric tons using glucose as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Ministry of Justice of the People's Republic of China",
+      "url": "https://www.moj.gov.cn/pub/sfbgw/flfggz/flfggzbmgz/200506/t20050601_374149.html",
+      "language": "chinese",
+      "date_published": "2005-06-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Chinese Academy of Sciences",
+      "url": "https://www.cas.cn/syky/202208/t20220815_4844600.shtml",
+      "language": "chinese",
+      "date_published": "2022-08-15"
+    },
+    "company_1": {
+      "company_name": "Dalian Institute of Chemical Physics Chinese Academy of Sciences",
+      "chemical_1": {
+        "chemical_name": "ethylene glycol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Liaoning",
+          "city": "Dalian"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "cellulose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "The Dalian Institute of Chemical Physics Chinese Academy of Sciences developed a process for producing ethylene glycol from cellulose using fermentation technology."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Carnegie Mellon University",
+      "url": "https://www.cs.cmu.edu/afs/cs.cmu.edu/project/cmt-40/Nice/Transfer/Chinese/lexlist.txt",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "East Money Information Co Ltd",
+      "url": "https://pdf.dfcfw.com/pdf/H3_AP202102211463960521_1.pdf",
+      "language": "chinese",
+      "date_published": "2021-02-21"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "cellulosic ethanol",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd operates a cellulosic ethanol plant in Yucheng Shandong with a production capacity of 50000 metric tons per year using corncob as feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Chinese Academy of Sciences",
+      "url": "https://www.cas.cn/zt/jzt/wxcbzt/zgkxyyk2007ndsq/xkfz/200706/t20070607_2668136.shtml",
+      "language": "chinese",
+      "date_published": "2007-06-07"
+    },
+    "company_1": {
+      "company_name": "Chinese Academy of Sciences",
+      "chemical_1": {
+        "chemical_name": "fuel ethanol",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "cellulose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "NA"
+        },
+        "notes": "The Chinese Academy of Sciences has achieved pilot-scale production of fuel ethanol from cellulose using fermentation technology."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Jiangsu Feiyide Technology Development Co Ltd",
+      "url": "https://www.js-fyd.com/a/xinwendongtai/changjianwenti/213.html",
+      "language": "chinese",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Jiangsu Feiyide Technology Development Co Ltd",
+      "chemical_1": {
+        "chemical_name": "sodium gluconate",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Jiangsu",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "Jiangsu Feiyide Technology Development Co Ltd produces sodium gluconate by fermentation using glucose as the feedstock."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "url": "http://static.cninfo.com.cn/finalpage/2025-04-22/1223197523.PDF",
+      "language": "chinese",
+      "date_published": "2025-04-22"
+    },
+    "company_1": {
+      "company_name": "Shandong Longlive Bio-Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "xylose",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd reported an annual production capacity of 100000 metric tons of xylose using corncob as feedstock at its Yucheng facility."
+      },
+      "chemical_2": {
+        "chemical_name": "xylitol",
+        "volume": 140000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Yucheng"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncob"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Longlive Bio-Technology Co Ltd reported an annual production capacity of 140000 metric tons of xylitol using corncob as feedstock at its Yucheng facility."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "East China University of Science and Technology",
+      "url": "https://xxgk.ecust.edu.cn/_upload/article/files/4a/ab/3675e63b473cb0c7dd34284b349e/e5a58277-6984-4e82-9282-726bd98b5132.pdf",
+      "language": "chinese",
+      "date_published": "2023-06-30"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Zhihu",
+      "url": "https://zhuanlan.zhihu.com/p/1889989536462903248",
+      "language": "chinese",
+      "date_published": "2024-05-31"
+    },
+    "company_1": {
+      "company_name": "Cathay Biotech Inc",
+      "chemical_1": {
+        "chemical_name": "1 5 pentanediamine",
+        "volume": 100000,
+        "location": {
+          "country": "China",
+          "state": "Shanghai",
+          "city": "Shanghai"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cathay Biotech Inc operates the world's largest 1 5 pentanediamine fermentation plant with an annual capacity of 100000 tons in Shanghai using glucose as feedstock."
+      },
+      "chemical_2": {
+        "chemical_name": "polyamide 56",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shanghai",
+          "city": "Shanghai"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Cathay Biotech Inc also produces 50000 tons per year of polyamide 56 in Shanghai using bio-based 1 5 pentanediamine from glucose fermentation."
+      }
+    },
+    "company_2": {
+      "company_name": "Shandong Landian Biological Technology Co Ltd",
+      "chemical_1": {
+        "chemical_name": "1 5 pentanediamine",
+        "volume": 50000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Landian Biological Technology Co Ltd has a 1 5 pentanediamine fermentation plant with an annual capacity of 50000 tons in Heze Shandong using glucose as feedstock."
+      },
+      "chemical_2": {
+        "chemical_name": "polyamide 56",
+        "volume": 20000,
+        "location": {
+          "country": "China",
+          "state": "Shandong",
+          "city": "Heze"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Shandong Landian Biological Technology Co Ltd also produces 20000 tons per year of polyamide 56 in Heze Shandong using bio-based 1 5 pentanediamine from glucose fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Hainan Institute of Industrial Policy and Business",
+      "url": "https://www.hiipb.com/upload/202306/08/202306081805562608.pdf",
+      "language": "chinese",
+      "date_published": "2023-06-08"
+    },
+    "company_1": {
+      "company_name": "COFCO Biochemical Energy Hainan Co Ltd",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 300000,
+        "location": {
+          "country": "China",
+          "state": "Hainan",
+          "city": "Haikou"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "cassava"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "COFCO Biochemical Energy Hainan Co Ltd produces 300000 metric tons of ethanol per year in Haikou Hainan using cassava as the feedstock via fermentation."
+      }
+    }
+  }
+]

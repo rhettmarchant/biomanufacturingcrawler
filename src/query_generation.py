@@ -70,16 +70,16 @@ def export_to_tsv(queries, file_path):
             f.write(f"{name}\t{query}\n")
 
 if __name__ == "__main__":
-    chemicals_tsv = 'August 2025 - GyG AI Screening Terms - Chemicals.tsv'
-    queries_tsv = 'August 2025 - GyG AI Screening Terms - Queries.tsv'
+    chemicals_tsv = 'reference/August 2025 - GyG AI Screening Terms - Chemicals.tsv'
+    queries_tsv = 'reference/August 2025 - GyG AI Screening Terms - Queries.tsv'
 
     chemicals = import_chemical_names(chemicals_tsv)
     search_terms = import_search_terms_tsv(queries_tsv)
 
     en_searches = generate_search_query(chemicals, search_terms, 'english')
     print(json.dumps(en_searches, indent = 2))
-    export_to_tsv(en_searches, 'August 2025 - GyG AI Queries - English.tsv')
+    export_to_tsv(en_searches, 'reference/August 2025 - GyG AI Queries - English.tsv')
 
     zh_searches = generate_search_query(chemicals, search_terms, 'chinese')
     print(json.dumps(zh_searches, indent = 2))
-    export_to_tsv(zh_searches, 'August 2025 - GyG AI Queries - Chinese.tsv')
+    export_to_tsv(zh_searches, 'reference/August 2025 - GyG AI Queries - Chinese.tsv')

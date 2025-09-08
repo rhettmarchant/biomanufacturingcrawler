@@ -1,0 +1,803 @@
+[
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0926669017303084",
+      "language": "english",
+      "date_published": "2017-09-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Chemistry World",
+      "url": "https://www.chemistryworld.com/podcasts/levulinic-acid/3009737.article",
+      "language": "english",
+      "date_published": "2018-08-09"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "levulinic acid",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "NA",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The article discusses the chemistry and potential of levulinic acid but does not mention any specific company or production volume."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Joule",
+      "url": "https://www.cell.com/joule/pdf/S2542-4351(19)30047-9.pdf",
+      "language": "english",
+      "date_published": "2019-03-20"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 100000000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn;sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global annual production of ethanol by fermentation from corn and sugarcane exceeds 100 million metric tons."
+      },
+      "chemical_2": {
+        "chemical_name": "lactic acid",
+        "volume": 1000000,
+        "location": {
+          "country": "global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn;starch;sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global annual production of lactic acid by fermentation from corn, starch, and sugarcane is about 1 million metric tons."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Khadi and Village Industries Commission",
+      "url": "https://www.kviconline.gov.in/pmegp/pmegpweb/docs/commonprojectprofile/Biodegradable%20Plastic%20Pellets%20(PLA%20Based).pdf",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "India Production Estimate",
+      "chemical_1": {
+        "chemical_name": "polylactic acid based biodegradable plastic pellets",
+        "volume": 300,
+        "location": {
+          "country": "India",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; sugarcane"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "The project profile estimates an annual production capacity of 300 metric tons of polylactic acid based biodegradable plastic pellets in India using corn and sugarcane as feedstocks via fermentation."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ResearchGate",
+      "url": "https://www.researchgate.net/publication/341103805_Production_of_Farnesene_a_Terpene_via_Fermentation_-_Process_Modeling_and_Techno-Economic_Assessment_TEA_using_SuperPro_Designer",
+      "language": "english",
+      "date_published": "2020-05-01"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "farnesene",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "projected",
+          "period": "yearly"
+        },
+        "notes": "The article presents a techno-economic assessment and process modeling for the projected production of farnesene via fermentation using glucose as feedstock but does not report actual production volumes or company-specific data."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9999446/",
+      "language": "english",
+      "date_published": "2023-03-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10176687/",
+      "language": "english",
+      "date_published": "2023-05-10"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 2500000,
+        "location": {
+          "country": "China; United States; Europe",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; molasses; starch"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global citric acid production is estimated at over 2.5 million metric tons per year, mainly via fermentation using corn, starch, or molasses as feedstocks, with China as the leading producer."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Chemwinfo",
+      "url": "http://www.chemwinfo.com/private_folder/Uploadfiles2015_May/EC_SugarPlaforms_to_Biofuels_and_Bi.pdf",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "NA",
+      "chemical_1": {
+        "chemical_name": "ethanol",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugar;starch"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The document discusses the production of ethanol from sugar and starch feedstocks via fermentation but does not provide company-specific or quantitative production data."
+      },
+      "chemical_2": {
+        "chemical_name": "butanol",
+        "volume": 0,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugar;starch"
+        },
+        "production_period": {
+          "projected": "NA",
+          "period": "NA"
+        },
+        "notes": "The document discusses the production of butanol from sugar and starch feedstocks via fermentation but does not provide company-specific or quantitative production data."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Biotechnology for Biofuels",
+      "url": "https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-018-1077-0",
+      "language": "english",
+      "date_published": "2018-11-06"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "MDPI Processes",
+      "url": "https://www.mdpi.com/2227-9717/9/2/220",
+      "language": "english",
+      "date_published": "2021-02-09"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 400000,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The global production of lactic acid is estimated to be about 400000 metric tons per year, mainly produced by fermentation using corn and sugarcane as feedstocks."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "SciSpace",
+      "url": "https://scispace.com/pdf/fungal-citric-acid-production-using-waste-materials-a-mini-1uzp66ty8t.pdf",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 1600000,
+        "location": {
+          "country": "China;India;United States",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sucrose;glucose;molasses"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global citric acid production is estimated at 1.6 million metric tons per year, mainly produced by fermentation using sucrose, glucose, or molasses as feedstocks, with China, India, and the United States as major producers."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Wiley Online Library",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ijch.201510005",
+      "language": "english",
+      "date_published": "2015-12-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Essential Chemical Industry",
+      "url": "https://www.essentialchemicalindustry.org/materials-and-applications/biotechnology-in-the-chemical-industry.html",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Royal Society of Chemistry",
+      "url": "https://pubs.rsc.org/en/content/articlehtml/2024/gc/d4gc00745j",
+      "language": "english",
+      "date_published": "2024-03-27"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9312071/",
+      "language": "english",
+      "date_published": "2022-07-21"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "citric acid",
+        "volume": 2000000,
+        "location": {
+          "country": "China; United States; Europe",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn; molasses; starch"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global citric acid production exceeds 2 million metric tons per year, mainly via fermentation using corn, starch, or molasses as feedstock, with China as the largest producer."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Microbial Cell Factories",
+      "url": "https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-016-0451-5",
+      "language": "english",
+      "date_published": "2016-07-07"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "United States Environmental Protection Agency",
+      "url": "https://19january2017snapshot.epa.gov/sites/production/files/2015-09/documents/fra006.pdf",
+      "language": "english",
+      "date_published": "1995-09-01"
+    },
+    "company_1": {
+      "company_name": "United States Production Estimate",
+      "chemical_1": {
+        "chemical_name": "furfural",
+        "volume": 20000,
+        "location": {
+          "country": "United States",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "secondary",
+          "input": "corncobs; oat hulls"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The United States produced approximately 20,000 metric tons of furfural per year in the early 1990s, primarily using fermentation of corncobs and oat hulls."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Biofuels Bioproducts and Biorefining",
+      "url": "https://scijournals.onlinelibrary.wiley.com/doi/full/10.1002/bbb.1431",
+      "language": "english",
+      "date_published": "2017-01-23"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "bioethanol",
+        "volume": 100000000,
+        "location": {
+          "country": "United States;Brazil;European Union;China;India",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn;sugarcane;wheat"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global bioethanol production exceeds 100 million metric tons per year, primarily using corn in the United States, sugarcane in Brazil, and wheat in the European Union."
+      },
+      "chemical_2": {
+        "chemical_name": "biodiesel",
+        "volume": 30000000,
+        "location": {
+          "country": "European Union;United States;Brazil;Argentina;Indonesia",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "transesterification",
+        "feedstock": {
+          "class": "primary",
+          "input": "rapeseed oil;soybean oil;palm oil"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global biodiesel production is about 30 million metric tons per year, with the European Union as the largest producer using rapeseed oil, and the United States, Brazil, Argentina, and Indonesia using soybean and palm oil."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "BIOPRO Baden-W\u00fcrttemberg GmbH",
+      "url": "https://www.biosc.de/lw_resource/datapool/systemfiles/elements/files/5a3d53e0-eb5f-11e9-b1c5-dead53a91d31/current/document/Top20_biobasierte_Produkte.pdf",
+      "language": "german",
+      "date_published": "2019-10-10"
+    },
+    "company_1": {
+      "company_name": "BASF SE",
+      "chemical_1": {
+        "chemical_name": "1,4-butanediol",
+        "volume": 50000,
+        "location": {
+          "country": "Germany",
+          "state": "Rhineland-Palatinate",
+          "city": "Ludwigshafen"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE produces 50,000 metric tons of bio-based 1,4-butanediol per year in Ludwigshafen using fermentation of glucose."
+      }
+    },
+    "company_2": {
+      "company_name": "Corbion NV",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 250000,
+        "location": {
+          "country": "Netherlands;Thailand",
+          "state": "NA;NA",
+          "city": "Gorinchem;Rayong"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugar"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Corbion NV produces 250,000 metric tons of lactic acid per year from sugar via fermentation in Gorinchem and Rayong."
+      }
+    },
+    "company_3": {
+      "company_name": "DuPont Tate & Lyle Bio Products Company LLC",
+      "chemical_1": {
+        "chemical_name": "1,3-propanediol",
+        "volume": 65000,
+        "location": {
+          "country": "United States",
+          "state": "Tennessee",
+          "city": "Loudon"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "DuPont Tate & Lyle Bio Products Company LLC produces 65,000 metric tons of 1,3-propanediol per year in Loudon, Tennessee from corn by fermentation."
+      }
+    },
+    "company_4": {
+      "company_name": "NatureWorks LLC",
+      "chemical_1": {
+        "chemical_name": "polylactic acid",
+        "volume": 150000,
+        "location": {
+          "country": "United States",
+          "state": "Nebraska",
+          "city": "Blair"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "NatureWorks LLC produces 150,000 metric tons of polylactic acid per year in Blair, Nebraska from corn via fermentation."
+      }
+    },
+    "company_5": {
+      "company_name": "Braskem SA",
+      "chemical_1": {
+        "chemical_name": "polyethylene",
+        "volume": 200000,
+        "location": {
+          "country": "Brazil",
+          "state": "Rio de Janeiro",
+          "city": "Triunfo"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Braskem SA produces 200,000 metric tons of bio-based polyethylene per year in Triunfo, Brazil from sugarcane."
+      }
+    },
+    "company_6": {
+      "company_name": "Evonik Industries AG",
+      "chemical_1": {
+        "chemical_name": "amino acids",
+        "volume": 400000,
+        "location": {
+          "country": "Germany;Belgium;United States;Brazil",
+          "state": "NA;NA;Alabama;NA",
+          "city": "NA;NA;Mobile;NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "glucose"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Evonik Industries AG produces 400,000 metric tons of amino acids per year from glucose by fermentation at multiple sites worldwide."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2468012518300051",
+      "language": "english",
+      "date_published": "2018-03-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1359511324001624",
+      "language": "english",
+      "date_published": "2024-05-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "International Council on Clean Transportation",
+      "url": "https://theicct.org/sites/default/files/publications/Alternative_jet_fuels_cost_EU_20190320.pdf",
+      "language": "english",
+      "date_published": "2019-03-20"
+    },
+    "company_1": {
+      "company_name": "Neste Oyj",
+      "chemical_1": {
+        "chemical_name": "hydroprocessed esters and fatty acids jet fuel",
+        "volume": 100000,
+        "location": {
+          "country": "Finland;Netherlands;Singapore",
+          "state": "NA",
+          "city": "Porvoo;Rotterdam;Singapore"
+        },
+        "method": "hydroprocessing",
+        "feedstock": {
+          "class": "secondary",
+          "input": "waste-oils;residues;animal-fats"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Neste Oyj produces up to 100000 metric tons per year of hydroprocessed esters and fatty acids jet fuel from waste oils, residues, and animal fats at facilities in Finland, the Netherlands, and Singapore."
+      }
+    },
+    "company_2": {
+      "company_name": "World Energy LLC",
+      "chemical_1": {
+        "chemical_name": "hydroprocessed esters and fatty acids jet fuel",
+        "volume": 34000,
+        "location": {
+          "country": "United States",
+          "state": "California",
+          "city": "Paramount"
+        },
+        "method": "hydroprocessing",
+        "feedstock": {
+          "class": "secondary",
+          "input": "waste-oils;animal-fats"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "World Energy LLC produces approximately 34000 metric tons per year of hydroprocessed esters and fatty acids jet fuel from waste oils and animal fats at its Paramount, California facility."
+      }
+    },
+    "company_3": {
+      "company_name": "AltAir Fuels LLC",
+      "chemical_1": {
+        "chemical_name": "hydroprocessed esters and fatty acids jet fuel",
+        "volume": 34000,
+        "location": {
+          "country": "United States",
+          "state": "California",
+          "city": "Paramount"
+        },
+        "method": "hydroprocessing",
+        "feedstock": {
+          "class": "secondary",
+          "input": "waste-oils;animal-fats"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "AltAir Fuels LLC, now part of World Energy, produces about 34000 metric tons per year of hydroprocessed esters and fatty acids jet fuel from waste oils and animal fats in Paramount, California."
+      }
+    },
+    "company_4": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "hydroprocessed esters and fatty acids jet fuel",
+        "volume": 150000,
+        "location": {
+          "country": "Global",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "hydroprocessing",
+        "feedstock": {
+          "class": "secondary",
+          "input": "waste-oils;animal-fats"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "The global production capacity for hydroprocessed esters and fatty acids jet fuel is estimated at about 150000 metric tons per year, primarily from waste oils and animal fats."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "BASF SE",
+      "url": "https://www.basf.com/dam/jcr:fc95f39a-95cd-3503-bb10-3e347f44423c/basf/www/cn/documents/zh/news-and-media/publication/gc-report_en/GC_report_2019_en.pdf",
+      "language": "english",
+      "date_published": "2019-12-31"
+    },
+    "company_1": {
+      "company_name": "BASF SE",
+      "chemical_1": {
+        "chemical_name": "ethylene oxide",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Guangdong",
+          "city": "Nanjing"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE produces ethylene oxide at its Nanjing site in China as part of its integrated chemical production complex."
+      },
+      "chemical_2": {
+        "chemical_name": "acrylic acid",
+        "volume": 0,
+        "location": {
+          "country": "China",
+          "state": "Guangdong",
+          "city": "Nanjing"
+        },
+        "method": "fossil-fuel-derived",
+        "feedstock": {
+          "class": "NA",
+          "input": "NA"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "BASF SE produces acrylic acid at its Nanjing site in China as part of its integrated chemical production complex."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "Microbial Cell Factories",
+      "url": "https://microbialcellfactories.biomedcentral.com/articles/10.1186/s12934-015-0205-9",
+      "language": "english",
+      "date_published": "2015-06-23"
+    },
+    "company_1": {
+      "company_name": "Global Production Estimate",
+      "chemical_1": {
+        "chemical_name": "lactic acid",
+        "volume": 400000,
+        "location": {
+          "country": "NA",
+          "state": "NA",
+          "city": "NA"
+        },
+        "method": "fermentation",
+        "feedstock": {
+          "class": "primary",
+          "input": "corn;glucose;starch;sugarcane"
+        },
+        "production_period": {
+          "projected": "real",
+          "period": "yearly"
+        },
+        "notes": "Global annual production of lactic acid is estimated at 400000 metric tons, mainly produced by fermentation using corn, glucose, starch, or sugarcane as feedstocks."
+      }
+    }
+  },
+  {
+    "source_info": {
+      "source_name": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0958166915001536",
+      "language": "english",
+      "date_published": "2015-09-01"
+    },
+    "company_1": {}
+  },
+  {
+    "source_info": {
+      "source_name": "Encyclopedia",
+      "url": "https://encyclopedia.pub/entry/39161",
+      "language": "english",
+      "date_published": "NA"
+    },
+    "company_1": {}
+  }
+]
