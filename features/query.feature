@@ -1,4 +1,4 @@
-@partial
+@unit
 Feature: Query unit tests
 
     Scenario Outline: Chemical queries are built from chemical names, synonyms, and abbreviations

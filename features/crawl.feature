@@ -1,4 +1,5 @@
-Feature: Crawl unit tests
+@integration
+Feature: Crawl integration tests (with Google Custom Search API)
 
     Scenario: Google search with valid API key, CX, query, and start
         Given a valid query and start
