@@ -9,7 +9,7 @@ Feature: Query unit tests
         Examples:
             | name            | synonyms                      | abbreviations | expected_query                                                                    |
             | empty           | empty                         | empty         | empty                                                                             |
-            | polylactic_acid | empty                         | empty         | polylactic acid                                                                 |
+            | polylactic_acids | empty                         | empty         | polylactic acid                                                                 |
             | polylactic_acid | polylactide                   | empty         | ("polylactic acid" OR "polylactide")                                              |
             | polylactic_acid | polylactide,poly(lactic)_acid | empty         | ("polylactic acid" OR "polylactide" OR "poly(lactic) acid")                       |
             | polylactic_acid | empty                         | PLA           | ("polylactic acid" OR "PLA")                                                      |
