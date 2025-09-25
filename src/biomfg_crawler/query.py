@@ -10,12 +10,6 @@
 # category: methods, volumes, production, or feedstock
 # language: english, chinese
 
-name = "polylactic acid"
-
-synonyms = ["polylactide", "poly(lactic) acid"]
-
-abbreviations = ["PLA", "PL acid"]
-
 def generate_chemical_query(name, synonyms = None, abbreviations = None):
     if name and not synonyms and not abbreviations:
         return name

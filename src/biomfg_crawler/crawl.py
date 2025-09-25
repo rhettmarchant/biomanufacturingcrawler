@@ -1,13 +1,11 @@
 import requests
 
-def google_search(api_key, cx, query, sort, start = 1,):
+def google_search(api_key, cx, query, start = 1,):
     url = "https://www.googleapis.com/customsearch/v1"
     params = {
         "key": api_key,
         "cx": cx,
         "q": query,
-        "sort": sort,
-        # Note, the API will never return more than 10 pages of results (i.e. 101)
         "start": start
     }
     resp = requests.get(url, params=params)
