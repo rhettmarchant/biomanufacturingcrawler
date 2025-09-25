@@ -24,4 +24,8 @@ def step_when_build_search_terms(context):
 
 @then("the search terms should be {expected_terms}")
 def step_then_search_terms_should_be(context, expected_terms):
-    assert str(context.search_terms) == expected_terms, f"Expected search terms '{expected_terms}', but got '{context.search_terms}'."
+    if expected_terms == "empty":
+        expected_terms_list = []
+    else:
+        expected_terms_list = expected_terms.strip("[").strip("]").replace("_", " ").split(", ")
+    assert context.search_terms == expected_terms_list, f"Expected search terms '{expected_terms_list}', but got '{context.search_terms}'."
