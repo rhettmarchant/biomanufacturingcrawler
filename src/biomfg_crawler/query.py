@@ -9,19 +9,28 @@
 # term:
 # category: methods, volumes, production, or feedstock
 # language: english, chinese
-chemical_query = "1,10-diaminodecane"
 
-keywords = {
-    'Method': ['biomanufacturing', 'bioreactor', 'fermentation'],
-    'Volume': ['ton', 'tons', 'tonnes', 'metric ton', 'metric tons', 'metric tonnes', 'litres'],
-    'Production': ['production capacity', 'annual production', 'annual capacity'],
-    'Feedstock': ['corn', 'sugar', 'sugarcane', 'biomass', 'starch', 'glucose']
-}
+name = "polylactic acid"
 
-search_terms = ['(biomanufacturing OR bioreactor OR fermentation)',
-                '(ton OR tons OR tonnes OR "metric ton" OR "metric tons" OR "metric tonnes" OR litres)',
-                '("production capacity" OR "annual production" OR "annual capacity")',
-                '(corn OR sugar OR sugarcane OR biomass OR starch OR glucose)']
+synonyms = ["polylactide", "poly(lactic) acid"]
+
+abbreviations = ["PLA", "PL acid"]
+
+def generate_chemical_query(name, synonyms = None, abbreviations = None):
+    if name and not synonyms and not abbreviations:
+        return name
+    
+    if name and (synonyms or abbreviations):
+        terms = [name]
+        if synonyms:
+            terms.extend(synonyms)
+        if abbreviations:
+            terms.extend(abbreviations)
+        return f"({' OR '.join([f'\"{term}\"' for term in terms])})"
+    
+    if name and synonyms and abbreviations:
+        terms = [name] + synonyms + abbreviations
+        return f"({' OR '.join([f'\"{term}\"' for term in terms])})"
 
 def generate_search_terms(keywords):
     search_terms = []
@@ -30,8 +39,8 @@ def generate_search_terms(keywords):
     return search_terms
 
 def generate_google_query(chemical_query, search_terms):
-    search_query = " AND ".join(search_terms)
+    if len(search_terms) == 0:
+        return chemical_query
+    else:
+        search_query = " AND ".join(search_terms)
     return f"{chemical_query} AND {search_query}"
-
-generate_google_query(chemical_query, search_terms)
-generate_google_query(chemical_query, generate_search_terms(keywords))
