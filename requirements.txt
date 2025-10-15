@@ -1,3 +1,5 @@
 pydantic==2.11.7
 behave==1.2.6
 python-dotenv===1.1.1
+requests==2.32.5
+biomfg-extractor @ git+ssh://git@github.com/rhettmarchant/biomfg_extractor.git@v0.2.5#egg=biomfg-extractor
