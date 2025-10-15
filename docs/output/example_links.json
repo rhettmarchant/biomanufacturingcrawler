@@ -1,0 +1,637 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "previousPage": [
+      {
+        "title": "Google Custom Search - (\"polylactic_acid\" OR \"polylactide\" OR \"poly(lactic) acid\") AND (\"biomanufacturing\" OR \"bioreactor\" OR \"fermentation\") AND (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\") AND (\"production capacity\" OR \"annual production\" OR \"annual capacity\") AND (\"corn\" OR \"sugar\" OR \"sugarcane\" OR \"biomass\" OR \"starch\" OR \"glucose\")",
+        "totalResults": "10800",
+        "searchTerms": "(\"polylactic_acid\" OR \"polylactide\" OR \"poly(lactic) acid\") AND (\"biomanufacturing\" OR \"bioreactor\" OR \"fermentation\") AND (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\") AND (\"production capacity\" OR \"annual production\" OR \"annual capacity\") AND (\"corn\" OR \"sugar\" OR \"sugarcane\" OR \"biomass\" OR \"starch\" OR \"glucose\")",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "96a82d1cef0c1426d"
+      }
+    ],
+    "request": [
+      {
+        "title": "Google Custom Search - (\"polylactic_acid\" OR \"polylactide\" OR \"poly(lactic) acid\") AND (\"biomanufacturing\" OR \"bioreactor\" OR \"fermentation\") AND (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\") AND (\"production capacity\" OR \"annual production\" OR \"annual capacity\") AND (\"corn\" OR \"sugar\" OR \"sugarcane\" OR \"biomass\" OR \"starch\" OR \"glucose\")",
+        "totalResults": "10800",
+        "searchTerms": "(\"polylactic_acid\" OR \"polylactide\" OR \"poly(lactic) acid\") AND (\"biomanufacturing\" OR \"bioreactor\" OR \"fermentation\") AND (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\") AND (\"production capacity\" OR \"annual production\" OR \"annual capacity\") AND (\"corn\" OR \"sugar\" OR \"sugarcane\" OR \"biomass\" OR \"starch\" OR \"glucose\")",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "96a82d1cef0c1426d"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - (\"polylactic_acid\" OR \"polylactide\" OR \"poly(lactic) acid\") AND (\"biomanufacturing\" OR \"bioreactor\" OR \"fermentation\") AND (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\") AND (\"production capacity\" OR \"annual production\" OR \"annual capacity\") AND (\"corn\" OR \"sugar\" OR \"sugarcane\" OR \"biomass\" OR \"starch\" OR \"glucose\")",
+        "totalResults": "10800",
+        "searchTerms": "(\"polylactic_acid\" OR \"polylactide\" OR \"poly(lactic) acid\") AND (\"biomanufacturing\" OR \"bioreactor\" OR \"fermentation\") AND (\"ton\" OR \"tons\" OR \"tonnes\" OR \"metric ton\") AND (\"production capacity\" OR \"annual production\" OR \"annual capacity\") AND (\"corn\" OR \"sugar\" OR \"sugarcane\" OR \"biomass\" OR \"starch\" OR \"glucose\")",
+        "count": 10,
+        "startIndex": 21,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "96a82d1cef0c1426d"
+      }
+    ]
+  },
+  "context": {
+    "title": "NSC Biomanufacturing"
+  },
+  "searchInformation": {
+    "searchTime": 0.43995,
+    "formattedSearchTime": "0.44",
+    "totalResults": "10800",
+    "formattedTotalResults": "10,800"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Bioplastics for a circular economy | Nature Reviews Materials",
+      "htmlTitle": "Bioplastics for a circular economy | Nature Reviews Materials",
+      "link": "https://www.nature.com/articles/s41578-021-00407-8",
+      "displayLink": "www.nature.com",
+      "snippet": "Jan 20, 2022 ... ... biomass, such as wheat straw and sugarcane bagasse. These ... production capacity of >250,000 tonnes per year. PLA is typically\u00a0...",
+      "htmlSnippet": "Jan 20, 2022 <b>...</b> ... <b>biomass</b>, such as wheat straw and <b>sugarcane</b> bagasse. These ... <b>production capacity</b> of &gt;250,000 <b>tonnes</b> per year. PLA is typically&nbsp;...",
+      "formattedUrl": "https://www.nature.com/articles/s41578-021-00407-8",
+      "htmlFormattedUrl": "https://www.nature.com/articles/s41578-021-00407-8",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHA20of-c2pFBAq2tc992wSGucp9JkdDZCkrrhoMI1kHJBl0I_DNwiCvI&s",
+            "width": "244",
+            "height": "206"
+          }
+        ],
+        "periodical": [
+          {
+            "issn": "2058-8437",
+            "name": "Nature Reviews Materials",
+            "alternatename": "Nat Rev Mater",
+            "publisher": "Springer Nature"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.publisher": "Nature Publishing Group",
+            "citation_journal_title": "Nature Reviews Materials",
+            "dc.rights": "2022 Springer Nature Limited",
+            "prism.publicationdate": "2022-01-20",
+            "prism.issn": "2058-8437",
+            "360-site-verification": "5a2dc4ab3fcb9b0393241ffbbb490480",
+            "prism.number": "2",
+            "citation_issn": "2058-8437",
+            "citation_language": "en",
+            "citation_pdf_url": "https://www.nature.com/articles/s41578-021-00407-8.pdf",
+            "citation_lastpage": "137",
+            "application-name": "Nature",
+            "prism.publicationname": "Nature Reviews Materials",
+            "citation_journal_abbrev": "Nat Rev Mater",
+            "dc.date": "2022-01-20",
+            "citation_issue": "2",
+            "prism.volume": "7",
+            "size": "498300",
+            "dc.title": "Bioplastics for a circular economy",
+            "prism.url": "https://www.nature.com/articles/s41578-021-00407-8",
+            "citation_volume": "7",
+            "dc.language": "En",
+            "doi": "10.1038/s41578-021-00407-8",
+            "msapplication-config": "/static/browserconfig.xml",
+            "prism.startingpage": "117",
+            "citation_publication_date": "2022/02",
+            "theme-color": "#000000",
+            "citation_title": "Bioplastics for a circular economy",
+            "access": "Yes",
+            "citation_publisher": "Nature Publishing Group",
+            "applicable-device": "pc,mobile",
+            "dc.format": "text/html",
+            "prism.rightsagent": "journalpermissions@springernature.com",
+            "citation_online_date": "2022/01/20",
+            "dc.source": "Nature Reviews Materials 2022 7:2",
+            "dc.type": "ReviewPaper",
+            "dc.rightsagent": "journalpermissions@springernature.com",
+            "dc.copyright": "2022 Springer Nature Limited",
+            "citation_fulltext_html_url": "https://www.nature.com/articles/s41578-021-00407-8",
+            "msapplication-tilecolor": "#000000",
+            "journal_id": "41578",
+            "dc.description": "Bioplastics \u2014 typically plastics manufactured from bio-based polymers \u2014 stand to contribute to more sustainable commercial plastic life cycles as part of a circular economy, in which virgin polymers are made from renewable or recycled raw materials. Carbon-neutral energy is used for production and products are reused or recycled at their end of life (EOL). In this Review, we assess the advantages and challenges of bioplastics in transitioning towards a circular economy. Compared with fossil-based plastics, bio-based plastics can have a lower carbon footprint and exhibit advantageous materials properties; moreover, they can be compatible with existing recycling streams and some offer biodegradation as an EOL scenario if performed in controlled or predictable environments. However, these benefits can have trade-offs, including negative agricultural impacts, competition with food production, unclear EOL management and higher costs. Emerging chemical and biological methods can enable the \u2018upcycling\u2019 of in",
+            "citation_article_type": "Review Article",
+            "prism.doi": "doi:10.1038/s41578-021-00407-8",
+            "prism.endingpage": "137",
+            "citation_firstpage": "117",
+            "viewport": "width=device-width,initial-scale=1.0,maximum-scale=5,user-scalable=yes",
+            "prism.section": "ReviewPaper",
+            "dc.identifier": "doi:10.1038/s41578-021-00407-8",
+            "prism.copyright": "2022 Springer Nature Limited"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41578-021-00407-8/MediaObjects/41578_2021_407_Fig3_HTML.png"
+          }
+        ],
+        "scholarlyarticle": [
+          {
+            "name": "Optimizing bioplastics translation",
+            "headline": "Optimizing bioplastics translation",
+            "url": "Optimizing bioplastics translation"
+          },
+          {
+            "name": "Bottlenecks in biobased approaches to plastic degradation",
+            "headline": "Bottlenecks in biobased approaches to plastic degradation",
+            "url": "Bottlenecks in biobased approaches to plastic degradation"
+          },
+          {
+            "name": "Biorenewable and circular polydiketoenamine plastics",
+            "headline": "Biorenewable and circular polydiketoenamine plastics",
+            "url": "Biorenewable and circular polydiketoenamine plastics"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "nature",
+            "name": "nature",
+            "position": "1"
+          },
+          {
+            "item": "nature reviews materials",
+            "name": "nature reviews materials",
+            "position": "2"
+          },
+          {
+            "item": "review articles",
+            "name": "review articles",
+            "position": "3"
+          },
+          {
+            "name": "article",
+            "position": "4"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Recent Progress in Modification and Preparations of the Promising ...",
+      "htmlTitle": "Recent Progress in Modification and Preparations of the Promising ...",
+      "link": "https://www.sciepublish.com/article/pii/38",
+      "displayLink": "www.sciepublish.com",
+      "snippet": "Polylactide or poly(lactic acid) (PLA) is a linear thermoplastic ... production capacity was about 394,800 tons increasing to 457,000 tons in 2021.",
+      "htmlSnippet": "<b>Polylactide</b> or <b>poly(lactic acid</b>) (PLA) is a linear thermoplastic ... <b>production capacity</b> was about 394,800 <b>tons</b> increasing to 457,000 <b>tons</b> in 2021.",
+      "formattedUrl": "https://www.sciepublish.com/article/pii/38",
+      "htmlFormattedUrl": "https://www.sciepublish.com/article/pii/38",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzhtJMV6pm19mFFVoEiynVMmLeTMCc2FmxsK3TU8dlZd_assRUfPnh4j4_&s",
+            "width": "193",
+            "height": "262"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.publisher": "SCIEPublish",
+            "prism.startingpage": "10006",
+            "citation_publication_date": "2023/04",
+            "citation_title": "Recent Progress in Modification and Preparations of the Promising Biodegradable Plastics: Polylactide and Poly(butylene adipate-co-terephthalate)",
+            "og:site_name": "SCIEPUBLISH",
+            "citation_publisher": "SCIEPublish",
+            "citation_journal_title": "Sustainable Polymer & Energy",
+            "dc.rights": "http://creativecommons.org/licenses/by/4.0/",
+            "dc.format": "application/pdf",
+            "prism.publicationdate": "2023-04-12",
+            "title": "Recent Progress in Modification and Preparations of the Promising Biodegradable Plastics: Polylactide and Poly(butylene adipate-co-terephthalate)",
+            "prism.issn": "2958-7700",
+            "citation_online_date": "2023/04/12",
+            "baidu-site-verification": "codeva-ndjLw7g1Pm",
+            "prism.number": "1",
+            "citation_issn": "2958-7700",
+            "dc.type": "Review",
+            "dc.source": "Sustainable Polymer & Energy 2023, Vol. 1, Page 10006",
+            "dc.creator": "Mei Meng",
+            "citation_fulltext_html_url": "https://www.sciepublish.com/article/pii/38",
+            "citation_pdf_url": "https://www.sciepublish.com/index/article/view_full_text/id/38",
+            "prism.publicationname": "Sustainable Polymer & Energy",
+            "dc.description": "The acquisition of high-performance biodegradable plastics is of great significance in addressing the problem of environmental pollution of plastics. Polylactide (PLA) and poly(butylene adipate-co-terephthalate) (PBAT) are the most promising biodegradable polymers and have excellent functional properties. However, low elongation at break and impact strength of PLA and low tensile modulus and flexural strength of PBAT hinder their application. A large number of studies focus on improving the performance of PLA and PBAT and broadening their applications. In terms of polymer modification, this paper summarized recent progresses in both chemical and physical modification methods for PLA and PBAT, respectively. The properties of PLA can be improved by co-polymerization, grafting, cross-linking and blending. The properties of PBAT can be improved mainly through blending with other degradable polymers, natural macromolecules and inorganic materials. This review can provide the reference and ideas for the modificatio",
+            "og:type": "Review",
+            "citation_author": "Meng, Mei",
+            "dc.date": "2023-04-12",
+            "citation_abstract_html_url": "https://www.sciepublish.com/article/pii/38",
+            "citation_issue": "1",
+            "fulltext_html": "https://www.sciepublish.com/article/pii/38",
+            "prism.volume": "1",
+            "citation_firstpage": "10006",
+            "viewport": "width=device-width,user-scalable=no,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0",
+            "fulltext_pdf": "https://www.sciepublish.com/index/article/view_full_text/id/38",
+            "citation_doi": "10.35534/spe.2023.10006",
+            "dc.title": "Recent Progress in Modification and Preparations of the Promising Biodegradable Plastics: Polylactide and Poly(butylene adipate-co-terephthalate)",
+            "dc.identifier": "10.35534/spe.2023.10006",
+            "dc.subject": "Polylactide, PLA",
+            "prism.section": "Review",
+            "citation_volume": "1",
+            "dc.language": "en"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.sciepublish.com/uploads/2025/05/20/1747731776Sx8e.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "building a vibrant domestic biomanufacturing ecosystem",
+      "htmlTitle": "building a vibrant domestic <b>biomanufacturing</b> ecosystem",
+      "link": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/11/BUILDING-A-VIBRANT-DOMESTIC-BIOMANUFACTURING-ECOSYSTEM.pdf",
+      "displayLink": "bidenwhitehouse.archives.gov",
+      "snippet": "Nov 15, 2024 ... produce more than one billion tons of biomass per year. This report ... Corn Starch-to-Sustainable Aviation Fuel Facility in. South\u00a0...",
+      "htmlSnippet": "Nov 15, 2024 <b>...</b> produce more than one billion <b>tons</b> of <b>biomass</b> per year. This report ... <b>Corn Starch</b>-to-Sustainable Aviation Fuel Facility in. South&nbsp;...",
+      "formattedUrl": "https://bidenwhitehouse.archives.gov/.../BUILDING-A-VIBRANT-DOMES...",
+      "htmlFormattedUrl": "https://bidenwhitehouse.archives.gov/.../BUILDING-A-VIBRANT-DOMES...",
+      "pagemap": {
+        "metatags": [
+          {
+            "moddate": "D:20241115153806-05'00'",
+            "creationdate": "D:20241115153740-05'00'",
+            "creator": "Acrobat PDFMaker 24 for Word",
+            "sourcemodified": "D:20241115203629",
+            "_dlc_dociditemguid": "706c6f91-3d89-4efc-9d58-5e38eb19cad4",
+            "author": "Whitman, Lloyd J. EOP/OSTP",
+            "producer": "Adobe PDF Library 24.4.252",
+            "company": "White House Communications Agency",
+            "title": "building a vibrant domestic biomanufacturing ecosystem",
+            "contenttypeid": "0x010100081C715169E7A14E959EAC80F7FBB879"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "LG Chem, ADM partner on PLA project - bioplastics MAGAZINE",
+      "htmlTitle": "LG Chem, ADM partner on PLA project - bioplastics MAGAZINE",
+      "link": "https://www.bioplasticsmagazine.com/en/news/meldungen/20210914-LG-Chem-to-produce-100-Bioplastic-with-a-Global-Major-Grain-Processing-Company.php",
+      "displayLink": "www.bioplasticsmagazine.com",
+      "snippet": "Sep 14, 2021 ... LG Chem announced that it had signed a Heads of Agreement (HOA) for the establishment of a Lactic Acid (LA) and Poly Lactic Acid (PLA) joint\u00a0...",
+      "htmlSnippet": "Sep 14, 2021 <b>...</b> LG Chem announced that it had signed a Heads of Agreement (HOA) for the establishment of a Lactic Acid (LA) and <b>Poly Lactic Acid</b> (PLA) joint&nbsp;...",
+      "formattedUrl": "https://www.bioplasticsmagazine.com/.../20210914-LG-Chem-to-produce-1...",
+      "htmlFormattedUrl": "https://www.bioplasticsmagazine.com/.../20210914-LG-Chem-to-produce-1...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoKXBvcrbUPOePKNPj6ngIiLJDTT7m7gJgB8Q5g25auMWSdnAYEeqNcXn&s",
+            "width": "280",
+            "height": "180"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.bioplasticsmagazine.com/bioplasticsmagazine-wAssets/img/ADMimage001.png",
+            "og:type": "article",
+            "article:published_time": "2021-09-14T15:49:43+02:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "LG Chem, ADM partner on PLA project - bioplastics MAGAZINE",
+            "og:published_time": "2021-09-14T15:49:43+02:00",
+            "og:url": "https://www.bioplasticsmagazine.com/en/news/meldungen/20210914-LG-Chem-to-produce-100-Bioplastic-with-a-Global-Major-Grain-Processing-Company.php",
+            "og:description": "LG Chem and Archer Daniels Midland (ADM) in the US, one of the world\\'s four major grain processing companies, will set up a joint factory for the purpose of commercialising corn-based bioplastics.",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.bioplasticsmagazine.com/bioplasticsmagazine-wAssets/img/ADMimage001.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Lactic acid production to purification: A review :: BioResources",
+      "htmlTitle": "Lactic acid production to purification: A review :: BioResources",
+      "link": "https://bioresources.cnr.ncsu.edu/resources/lactic-acid-production-to-purification-a-review/",
+      "displayLink": "bioresources.cnr.ncsu.edu",
+      "snippet": "In 1839, Fremy carried out lactic acid fermentation with various carbohydrates, such as sugar, milk, starch, and dextrin (Holten et al. 1971). In 1857, Pasteur\u00a0...",
+      "htmlSnippet": "In 1839, Fremy carried out lactic acid <b>fermentation</b> with various carbohydrates, such as <b>sugar</b>, milk, <b>starch</b>, and dextrin (Holten et al. 1971). In 1857, Pasteur&nbsp;...",
+      "formattedUrl": "https://bioresources.cnr.ncsu.edu/.../lactic-acid-production-to-purification-a...",
+      "htmlFormattedUrl": "https://bioresources.cnr.ncsu.edu/.../lactic-acid-production-to-purification-a...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSas46_w4f2zwHAsUvm44FUtKtDAnZWrLEOADR_6QSHPHdH8HX-smIYsYzy&s",
+            "width": "324",
+            "height": "156"
+          }
+        ],
+        "metatags": [
+          {
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@bioresjournal",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:url": "https://bioresources.cnr.ncsu.edu/",
+            "twitter:widgets:link-color": "#cc0000"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://bioresources.cnr.ncsu.edu/wp-content/themes/ncsu-base/img/ncstate-brick-2x2-red.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Techno-Economic Analysis and Life Cycle Assessment of the ...",
+      "htmlTitle": "Techno-Economic Analysis and Life Cycle Assessment of the ...",
+      "link": "https://www.osti.gov/pages/servlets/purl/2406960",
+      "displayLink": "www.osti.gov",
+      "snippet": "For example, ethylene glycol. Page 3. 3 can be synthesized from ethanol, which can be produced via fermentation from sugar cane24. The biomass-derived ethylene\u00a0...",
+      "htmlSnippet": "For example, ethylene glycol. Page 3. 3 can be synthesized from ethanol, which can be produced via <b>fermentation</b> from <b>sugar</b> cane24. The <b>biomass</b>-derived ethylene&nbsp;...",
+      "formattedUrl": "https://www.osti.gov/pages/servlets/purl/2406960",
+      "htmlFormattedUrl": "https://www.osti.gov/pages/servlets/purl/2406960",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLvIbyqqhTUdRuPSsCMx_9liUJaiAGon88RKhVpqUY1-VJIGsZRuIy-g&s",
+            "width": "98",
+            "height": "105"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20240517180913+00'00'",
+            "creator": "Microsoft Word",
+            "creationdate": "D:20240517180913+00'00'",
+            "author": "lokimjuy@gmail.com"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///ea5a2c723f60fed2fe0a50774ace6853364e14db92650881f3fbbcd3165436f8"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jacobs completes FEED for NatureWorks' Thailand PLA plant ...",
+      "htmlTitle": "Jacobs completes FEED for NatureWorks&#39; Thailand PLA plant ...",
+      "link": "https://www.sustainableplastics.com/news/jacobs-completes-feed-natureworks-thailand-pla-plant-project",
+      "displayLink": "www.sustainableplastics.com",
+      "snippet": "Sep 30, 2021 ... NatureWorks' Ingeo PLA is made by using plants, like corn or sugarcane ... fermentation technology. Partner companies transform the pellet\u00a0...",
+      "htmlSnippet": "Sep 30, 2021 <b>...</b> NatureWorks&#39; Ingeo PLA is made by using plants, like <b>corn</b> or <b>sugarcane</b> ... <b>fermentation</b> technology. Partner companies transform the pellet&nbsp;...",
+      "formattedUrl": "https://www.sustainableplastics.com/.../jacobs-completes-feed-natureworks-t...",
+      "htmlFormattedUrl": "https://www.sustainableplastics.com/.../jacobs-completes-feed-natureworks-t...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_0_kSad45_D4ixxw6LKshTzmJT0fxwNePXsJ_qn_y2fY5zL82iAMF73w&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "imageobject": [
+          {
+            "contenturl": "https://s3-prod.sustainableplastics.com/styles/width_280/s3/CAPTION_Nakhon-Sawan-Biocomplex_%28image%20credit%20NatureWorks%29PNG.png"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Crain Communications, Inc.",
+            "url": "Crain Communications, Inc."
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://s3-prod.sustainableplastics.com/styles/1200x630/s3/CAPTION_Nakhon-Sawan-Biocomplex_%28image%20credit%20NatureWorks%29PNG.png",
+            "article:published_time": "2021-09-30T10:18:00+01:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Sustainable Plastics",
+            "sailthru.tags": "news,biobased-plastics,frontpage-featured,free-access",
+            "twitter:url": "https://www.sustainableplastics.com/news/jacobs-completes-feed-natureworks-thailand-pla-plant-project",
+            "og:description": "Dallas-based engineering firm Jacobs has completed the front-end engineering design for a new biopolymer production plant in Thailand for PLA supplier NatureWorks, the company has announced.",
+            "twitter:image": "https://s3-prod.sustainableplastics.com/styles/1024x512/s3/CAPTION_Nakhon-Sawan-Biocomplex_%28image%20credit%20NatureWorks%29PNG.png",
+            "article:modified_time": "2021-10-14T18:12:04+01:00",
+            "sailthru.title": "Jacobs completes FEED for NatureWorks\u2019 Thailand PLA plant project",
+            "categories": "News, Biobased plastics, Frontpage - Featured",
+            "sailthru.date": "Thu, 30 Sep 2021 10:24:26 +0100",
+            "og:type": "article",
+            "article:section": "News",
+            "twitter:title": "Jacobs completes FEED for NatureWorks\u2019 Thailand PLA plant project",
+            "og:image:url": "https://s3-prod.sustainableplastics.com/styles/1200x630/s3/CAPTION_Nakhon-Sawan-Biocomplex_%28image%20credit%20NatureWorks%29PNG.png",
+            "handheldfriendly": "true",
+            "og:title": "Jacobs completes FEED for NatureWorks\u2019 Thailand PLA plant project",
+            "abstract": "Dallas-based engineering firm Jacobs has completed the front-end engineering design for a new biopolymer production plant in Thailand for PLA supplier NatureWorks, the company has announced.",
+            "og:updated_time": "2021-10-14T18:12:04+01:00",
+            "article:author": "https://www.facebook.com/*",
+            "sailthru.description": "Dallas-based engineering firm Jacobs has completed the front-end engineering design for a new biopolymer production plant in Thailand for PLA supplier NatureWorks, the company has announced.",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=no",
+            "twitter:description": "Dallas-based engineering firm Jacobs has completed the front-end engineering design for a new biopolymer production plant in Thailand for PLA supplier NatureWorks, the company has announced.",
+            "mobileoptimized": "width",
+            "og:url": "https://www.sustainableplastics.com/news/jacobs-completes-feed-natureworks-thailand-pla-plant-project",
+            "sailthru.author": "Karen Laird",
+            "sailthru.image.full": "https://s3-prod.sustainableplastics.com/styles/width_792/s3/CAPTION_Nakhon-Sawan-Biocomplex_%28image%20credit%20NatureWorks%29PNG.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s3-prod.sustainableplastics.com/styles/1200x630/s3/CAPTION_Nakhon-Sawan-Biocomplex_%28image%20credit%20NatureWorks%29PNG.png"
+          }
+        ],
+        "article": [
+          {
+            "articlebody": "Dallas-based engineering firm Jacobs has completed the front-end engineering design for a new biopolymer production plant in Thailand for PLA supplier NatureWorks, the company has announced....",
+            "author": "Karen Laird",
+            "headline": "Jacobs completes FEED for NatureWorks\u2019 Thailand PLA plant project",
+            "datepublished": "September 30, 2021 10:24 AM"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "New insights into Chlorella vulgaris applications",
+      "htmlTitle": "New insights into Chlorella vulgaris applications",
+      "link": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdf/10.1002/bit.28666",
+      "displayLink": "analyticalsciencejournals.onlinelibrary.wiley.com",
+      "snippet": "Jan 18, 2024 ... from biomass and sugar fermentation were 3.62gL. \u20101. PHAs and. 11.7 mg ... From corn to poly lactic acid (PLA): Fermentation in action,.",
+      "htmlSnippet": "Jan 18, 2024 <b>...</b> from <b>biomass</b> and <b>sugar fermentation</b> were 3.62gL. \u20101. PHAs and. 11.7 mg ... From <b>corn</b> to <b>poly lactic acid</b> (PLA): <b>Fermentation</b> in action,.",
+      "formattedUrl": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdf/.../bit.2866...",
+      "htmlFormattedUrl": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/pdf/.../bit.2866...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcw4JmnfbMC8stUnIFkWE57YZg_oSCsAXmlAcRpTONOnTPXf_DoMDT7t3_&s",
+            "width": "264",
+            "height": "191"
+          }
+        ],
+        "metatags": [
+          {
+            "wps_proclevel": "3",
+            "moddate": "D:202404130720-07'00'",
+            "wps_articledoi": "10.1002/bit.28666",
+            "creationdate": "D:20240409125258+05'30'",
+            "creator": "John Wiley & Sons; Atypon Systems PDFplus",
+            "subject": "Biotechnology and Bioengineering, doi:10.1002/bit.28666",
+            "wps_journaldoi": "10.1002/(ISSN)1097-0290",
+            "title": "New insights into Chlorella vulgaris applications"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///94a80ac63f8e385947f06cf53ebca39821266e24ec50215613a5b2fa08558430"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Sustainable Lactic Acid Production from Lignocellulosic Biomass ...",
+      "htmlTitle": "Sustainable Lactic Acid Production from Lignocellulosic <b>Biomass</b> ...",
+      "link": "https://pubs.acs.org/doi/10.1021/acssuschemeng.0c08055",
+      "displayLink": "pubs.acs.org",
+      "snippet": "Jan 12, 2021 ... ... sugar substrate (glucan to glucose conversion) or lactic acid fermentation yield. ... Corn Stover Feedstock. Ind. Crops Prod. 2018, 126\u00a0...",
+      "htmlSnippet": "Jan 12, 2021 <b>...</b> ... <b>sugar</b> substrate (glucan to <b>glucose</b> conversion) or lactic acid <b>fermentation</b> yield. ... <b>Corn</b> Stover Feedstock. Ind. Crops Prod. 2018, 126&nbsp;...",
+      "formattedUrl": "https://pubs.acs.org/doi/10.1021/acssuschemeng.0c08055",
+      "htmlFormattedUrl": "https://pubs.acs.org/doi/10.1021/acssuschemeng.0c08055",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Zq09vfTCfESBRcg_jYyPJTXnL0VYU6zPVdGzbDKFfkGsMm16LZsOqgQ6&s",
+            "width": "239",
+            "height": "211"
+          }
+        ],
+        "ScholarlyArticle": [
+          {
+            "datePublished": "January 12, 2021",
+            "noopener": "Facebook",
+            "articleBody": "SynopsisSustainable design of lignocellulosic biorefineries for lactic acid production with agile technoeconomic analysis and life cycle assessment under uncertainty was discussed.IntroductionClick...",
+            "author": "Yalin Li",
+            "description": "High Resolution ImageDownload MS PowerPoint SlideLignocellulosic biomass is a promising feedstock for sustainable biofuels and bioproducts. Among emerging bioproducts, lactic acid has attracted...",
+            "publisher": "ACS Publications",
+            "noreferrer": ".style0 {fill: #566471;} .style1 {fill: #A2CD3C;} .style2 {fill: #C54C59;} .style3 {fill: #5BC4BD;} figshare",
+            "mainEntityOfPage": "https://pubs.acs.org/doi/10.1021/acssuschemeng.0c08055",
+            "headline": "Sustainable Lactic Acid Production from Lignocellulosic Biomass",
+            "articleSection": "research-article"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.publisher": "American Chemical Society",
+            "og:image": "https://pubs.acs.org/cms/10.1021/acssuschemeng.0c08055/asset/images/acssuschemeng.0c08055.social.jpeg_v03",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "ACS Publications",
+            "citation_journal_title": "ACS Sustainable Chemistry & Engineering",
+            "dc.format": "text/HTML",
+            "dc.rights": "\u00a9 2021 American Chemical Society",
+            "og:description": "Lignocellulosic biomass is a promising feedstock for sustainable biofuels and bioproducts. Among emerging bioproducts, lactic acid has attracted significant interest because of its growing application in many industries (e.g., packaging, medical, and pharmaceutical). In this study, BioSTEAM\u2014an open-source platform\u2014was leveraged for the design, simulation, and evaluation (via techno-economic analysis, TEA, and life cycle assessment, LCA) of lignocellulosic lactic acid biorefineries. With a minimum product selling price (MPSP) between $1.38 and 1.91 kg\u20131 (5th\u201395th percentiles, baseline at $1.57 kg\u20131), the biorefinery was capable of producing market-competitive lactic acid (market price between $1.7 and 2.1 kg\u20131), and its performance could be further enhanced (e.g., MPSP down to $1.09 kg\u20131, global warming potential of 2.79 kg CO2-eq\u00b7kg\u20131, and fossil energy consumption of 31.7 MJ\u00b7kg\u20131) with advancements in key technological parameters (fermentation yield and separation process conversions) and",
+            "twitter:image": "https://pubs.acs.org/cms/10.1021/acssuschemeng.0c08055/asset/images/acssuschemeng.0c08055.social.jpeg_v03",
+            "twitter:site": "@ACSPublications",
+            "dc.type": "research-article",
+            "dc.creator": "Yalin  Li",
+            "publication_doi": "10.1021/acssuschemeng.0c08055",
+            "dc.description": "Lignocellulosic biomass is a promising feedstock for sustainable biofuels and bioproducts. Among emerging bioproducts, lactic acid has attracted significant interest because of its growing applicat...",
+            "og:type": "Article",
+            "dc.coverage": "world",
+            "og:title": "Sustainable Lactic Acid Production from Lignocellulosic Biomass",
+            "pbcontext": ";article:article:10.1021/acssuschemeng.0c08055;journal:journal:ascecg;page:string:Article/Chapter View;ctype:string:Journal Content;requestedJournal:journal:ascecg;wgroup:string:ACHS website Group;website:website:acspubs;pageGroup:string:Publication Pages;subPage:string:Full Text;issue:issue:10.1021/ascecg.2021.9.issue-3",
+            "dc.date": "January 12, 2021",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=10, user-scalable=1",
+            "dc.title": "Sustainable Lactic Acid Production from Lignocellulosic Biomass",
+            "dc.subject": "biorefinery design; techno-economic analysis (TEA); life cycle assessment (LCA); sensitivity; uncertainty; fermentation; carbohydrate content; feedstock price",
+            "dc.identifier": "10.1021/acssuschemeng.0c08055",
+            "dc.language": "en",
+            "og:url": "https://pubs.acs.org/doi/full/10.1021/acssuschemeng.0c08055",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://pubs.acs.org/cms/10.1021/acssuschemeng.0c08055/asset/images/medium/sc0c08055_0002.gif"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Synthesis, properties, and applications of polylactic acid\u2010based ...",
+      "htmlTitle": "Synthesis, properties, and applications of polylactic acid\u2010based ...",
+      "link": "https://4spepublications.onlinelibrary.wiley.com/doi/10.1002/pen.26193",
+      "displayLink": "4spepublications.onlinelibrary.wiley.com",
+      "snippet": "Nov 3, 2022 ... These sources can be (1) glucose, maltose, and dextrose from corn or potato starch; (2) sucrose from cane or beet sugar; and (3) lactose from\u00a0...",
+      "htmlSnippet": "Nov 3, 2022 <b>...</b> These sources can be (1) <b>glucose</b>, maltose, and dextrose from <b>corn</b> or potato <b>starch</b>; (2) sucrose from cane or beet <b>sugar</b>; and (3) lactose from&nbsp;...",
+      "formattedUrl": "https://4spepublications.onlinelibrary.wiley.com/doi/10.1002/pen.26193",
+      "htmlFormattedUrl": "https://4spepublications.onlinelibrary.wiley.com/doi/10.1002/pen.26193",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjcAifjyrMACrZdZmIRbu3eUDKQEgX3lEEibwFJ31nt3aVkemVqyChVnJj&s",
+            "width": "368",
+            "height": "137"
+          }
+        ],
+        "metatags": [
+          {
+            "citation_keywords": "biodegradable polymer",
+            "og:image": "https://4spepublications.onlinelibrary.wiley.com/cms/asset/fb7f7f0d-b7ec-4251-9397-bc71b46cdefa/pen26193-toc-0001-m.jpg?trick=1760426388920",
+            "citation_publication_date": "2023/01/01",
+            "twitter:card": "summary_large_image",
+            "citation_title": "Synthesis, properties, and applications of polylactic acid-based polymers",
+            "citation_author_institution": "Mechanics, Surfaces and Materials Processing (MSMP) \u2013 EA 7350 Arts et Metiers Institute of Technology Aix-en-Provence France",
+            "og:site_name": "SPE Inspiring Plastics Professionals",
+            "citation_publisher": "John Wiley & Sons, Ltd",
+            "citation_journal_title": "Polymer Engineering & Science",
+            "mathjax-version": "3",
+            "og:description": "Polylactic acid (PLA) is known as one of the greatest promising bioabsorbable and compostable polyesters with the capability of high molecular weight synthesis. Lactic acid condensation, azeotropic d...",
+            "twitter:image": "https://4spepublications.onlinelibrary.wiley.com/cms/asset/fb7f7f0d-b7ec-4251-9397-bc71b46cdefa/pen26193-toc-0001-m.jpg?trick=1760426388920",
+            "submission-systems-domains": "/pb-assets/utm_params_config/submission-systems-domains-1667213560157.txt",
+            "citation_online_date": "2022/11/03",
+            "citation_issn": "1548-2634",
+            "citation_language": "en",
+            "citation_fulltext_html_url": "https://onlinelibrary.wiley.com/doi/full/10.1002/pen.26193",
+            "publication_doi": "10.1002/pen.26193",
+            "citation_pdf_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/pen.26193",
+            "citation_lastpage": "43",
+            "og:type": "Article",
+            "og:title": "Synthesis, properties, and applications of polylactic acid\u2010based polymers",
+            "pbcontext": ";page:string:Article/Chapter View;ctype:string:Journal Content;website:website:4spepublications;journal:journal:15482634;wgroup:string:Publication Websites;pageGroup:string:Publication Pages;subPage:string:Full Text;requestedJournal:journal:15482634;article:article:doi\\:10.1002/pen.26193;issue:issue:doi\\:10.1002/pen.v63.1",
+            "citation_author": "Hossein Ramezani Dana",
+            "citation_abstract_html_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pen.26193",
+            "citation_issue": "1",
+            "citation_firstpage": "22",
+            "referrer": "origin-when-cross-origin",
+            "mathjax-enabled": "true",
+            "viewport": "width=device-width,initial-scale=1",
+            "citation_doi": "10.1002/pen.26193",
+            "mathjax-lazy-load": "true",
+            "dc.identifier": "10.1002/pen.26193",
+            "citation_volume": "63",
+            "og:url": "https://4spepublications.onlinelibrary.wiley.com/doi/10.1002/pen.26193",
+            "article_references": "H. Ramezani Dana,  F. Ebrahimi, Polym. Eng. Sci.  2023,  63(1),  22. https://doi.org/10.1002/pen.26193"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://4spepublications.onlinelibrary.wiley.com/cms/asset/fb7f7f0d-b7ec-4251-9397-bc71b46cdefa/pen26193-toc-0001-m.jpg?trick=1760426388920"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,15 +1,3 @@
-# query_chemicals
-# name_en:
-# synonyms_en:
-# abbreviations_en:
-# name_zh:
-# synonyms_zh:
-
-# search_term
-# term:
-# category: methods, volumes, production, or feedstock
-# language: english, chinese
-
 def generate_chemical_query(name, synonyms = None, abbreviations = None):
     if name and not synonyms and not abbreviations:
         return name

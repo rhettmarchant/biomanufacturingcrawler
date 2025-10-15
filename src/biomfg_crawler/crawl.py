@@ -15,3 +15,6 @@ def google_search(api_key, cx, query, start = 1,):
     resp.raise_for_status()
     return resp.json()
 
+def extract_links(google_search):
+    links = [item.get("link") for item in google_search.get("items", [])]
+    return links
