@@ -31,7 +31,7 @@ def download(url, whitelist, blacklist, post_sleep=10, whitelist_sleep=30, force
 
 # Input: a JSON object with 'link', 'status', and 'content' keys
 # Output: the same JSON object with added 'ai_response' and 'llm_trim' keys
-def submit_to_ai(result, patterns, language, post_sleep=60):
+def submit_to_ai(result, user_prompt, system_prompt, patterns, language, post_sleep=60):
     if result['status'] == 200 and result['content'] != "None":
         if result['link'].endswith(".pdf") or result['content'].strip().startswith("%PDF"):
             print(f"Skipping PDF content from {result['link']}")
@@ -40,7 +40,7 @@ def submit_to_ai(result, patterns, language, post_sleep=60):
                 llm_trim = bme.html_to_llm(
                     result['content'], patterns, language)
                 ai_response = bme.extract_source(
-                    url=result['link'], user=bme.user_v2(), system=bme.system_v2(), source_data=llm_trim)
+                    url=result['link'], user_prompt=user_prompt, system_prompt=system_prompt, source_data=llm_trim)
                 result['llm_trim'] = llm_trim
                 result['ai_response'] = bme.biomfg_to_json(ai_response)
                 time.sleep(post_sleep)

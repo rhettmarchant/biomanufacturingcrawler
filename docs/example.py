@@ -1,6 +1,8 @@
 import src.biomfg_crawler.query as query
 import src.biomfg_crawler.crawl as crawl
 import src.biomfg_crawler.download as download
+import biomfg_extractor as bme
+
 from dotenv import load_dotenv
 import os
 import json
@@ -39,5 +41,5 @@ json.dump(results, open("docs/output/example_links_scraped.json", "w"), indent=2
 results = json.load(open("docs/output/example_links_scraped.json"))
 
 for result in results:
-    download.submit_to_ai(result, "docs/patterns.txt", "english", post_sleep=60)
+    download.submit_to_ai(result, bme.user_v2(), bme.system_v2(), "docs/patterns.txt", "english", post_sleep=60)
 json.dump(results, open("docs/output/example_links_ai_output.json", "w"), indent=2)
