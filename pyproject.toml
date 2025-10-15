@@ -1,8 +1,8 @@
 [project]
 name = "biomfg-crawler"
-version = "0.1.0"
+version = "0.1.1"
 requires-python = ">=3.10"
-dependencies = ["pydantic>=2.9.7", "python-dotenv>=1.0.0"]
+dependencies = ["pydantic>=2.9.7", "python-dotenv>=1.0.0", "requests>=2.0.0"]
 
 [build-system]
 requires = ["setuptools>=68","wheel"]
